@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: d509b4b66ad4c2c418ca6eab72ead267
+timeCreated: 1475724949
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BugWing
+    21300002: BugHead
+    21300004: BugShellBack
+    21300006: BugBody
+    21300008: BugShellFront
+    21300010: BugLeg2b
+    21300012: BugLeg2a
+    21300014: BugLeg3a
+    21300016: BugLeg3b
+    21300018: BugLeg3c
+    21300020: BugLeg1a
+    21300022: BugLeg1b
+    21300024: BugLeg1c
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BugWing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 314
+        height: 286
+      alignment: 9
+      pivot: {x: 0.9730615, y: 0.034820557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BugHead
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 304
+        width: 228
+        height: 237
+      alignment: 9
+      pivot: {x: 0.15110913, y: 0.16138816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BugShellBack
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 303
+        width: 353
+        height: 224
+      alignment: 9
+      pivot: {x: 0.9573879, y: 0.06752328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BugBody
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 303
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BugShellFront
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 49
+        width: 354
+        height: 224
+      alignment: 9
+      pivot: {x: 0.9560959, y: 0.055990595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BugLeg2b
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 17
+        width: 92
+        height: 46
+      alignment: 9
+      pivot: {x: 0.90991014, y: 0.86436456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BugLeg2a
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 75
+        width: 136
+        height: 106
+      alignment: 9
+      pivot: {x: 0.9251817, y: 0.9032073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BugLeg3a
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 140
+        width: 106
+        height: 42
+      alignment: 9
+      pivot: {x: 0.080980405, y: 0.7793463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BugLeg3b
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 49
+        width: 119
+        height: 74
+      alignment: 9
+      pivot: {x: 0.07041662, y: 0.8963694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BugLeg3c
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1
+        width: 71
+        height: 33
+      alignment: 9
+      pivot: {x: 0.063275404, y: 0.8560615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BugLeg1a
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 238
+        width: 107
+        height: 37
+      alignment: 9
+      pivot: {x: 0.9307673, y: 0.77179617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BugLeg1b
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 195
+        width: 132
+        height: 87
+      alignment: 9
+      pivot: {x: 0.94629, y: 0.89175415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BugLeg1c
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 235
+        width: 69
+        height: 38
+      alignment: 9
+      pivot: {x: 0.9359361, y: 0.8685937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

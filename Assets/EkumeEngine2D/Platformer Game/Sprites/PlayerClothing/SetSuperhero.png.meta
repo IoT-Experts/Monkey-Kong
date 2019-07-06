@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: a1e22deba43cee1488801f803e0a4dfa
+timeCreated: 1472706838
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SetSuperhero_0
+    21300002: SetSuperhero_1
+    21300004: SetSuperhero_2
+    21300006: SetSuperhero_3
+    21300008: SetSuperhero_4
+    21300010: SetSuperhero_5
+    21300012: SetSuperhero_6
+    21300014: SetSuperhero_7
+    21300016: SetSuperhero_8
+    21300018: SetSuperhero_9
+    21300020: SetSuperhero_10
+    21300022: SetSuperhero_11
+    21300024: SetSuperhero_12
+    21300026: SetSuperhero_13
+    21300028: SetSuperhero_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SetSuperhero_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 296
+        height: 436
+      alignment: 9
+      pivot: {x: 0.4657313, y: 0.28048944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.92823, y: 156.8533}
+        - {x: -68.92823, y: 99.8533}
+        - {x: -68.92823, y: 5.853302}
+        - {x: -57.92823, y: -37.146698}
+        - {x: -32.92823, y: -60.146698}
+        - {x: -30.92823, y: -61.146698}
+        - {x: 38.07177, y: -61.146698}
+        - {x: 79.07177, y: -36.146698}
+        - {x: 79.07177, y: 123.8533}
+        - {x: 42.07177, y: 156.8533}
+    - name: SetSuperhero_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 754
+        width: 285
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 50.5}
+        - {x: -54, y: 26.5}
+        - {x: -71, y: 5.5}
+        - {x: -71, y: -28.5}
+        - {x: -40, y: -50.5}
+        - {x: 36, y: -50.5}
+        - {x: 72, y: 28.5}
+        - {x: 72, y: 41.5}
+        - {x: 55, y: 50.5}
+    - name: SetSuperhero_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 373
+        width: 184
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5260058, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.607468, y: 39}
+        - {x: 16.607468, y: 48}
+        - {x: -25.392532, y: 48}
+        - {x: -31.392532, y: 47}
+        - {x: -46.392532, y: 6}
+        - {x: -46.392532, y: -45}
+        - {x: -38.392532, y: -47}
+        - {x: 39.607468, y: -47}
+        - {x: 43.607468, y: -44}
+        - {x: 43.607468, y: -11}
+        - {x: 39.607468, y: 7}
+    - name: SetSuperhero_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 137
+        height: 153
+      alignment: 9
+      pivot: {x: 0.48130697, y: 0.47060618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.780472, y: 40.748627}
+        - {x: -33.21953, y: -5.2513733}
+        - {x: -33.21953, y: -35.251373}
+        - {x: -31.219528, y: -36.251373}
+        - {x: -0.2195282, y: -36.251373}
+        - {x: 35.78047, y: 8.748627}
+        - {x: 35.78047, y: 40.748627}
+    - name: SetSuperhero_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 493
+        width: 72
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 40}
+        - {x: -18, y: -17}
+        - {x: -15, y: -38}
+        - {x: -14, y: -39}
+        - {x: 18, y: -39}
+        - {x: 18, y: 9}
+        - {x: 9, y: 40}
+    - name: SetSuperhero_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 287
+        width: 193
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.5, y: 30}
+        - {x: -96.5, y: 20}
+        - {x: -96.5, y: -17}
+        - {x: -80.5, y: -30}
+        - {x: 96.5, y: -30}
+        - {x: 96.5, y: 30}
+    - name: SetSuperhero_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 340
+        width: 93
+        height: 116
+      alignment: 9
+      pivot: {x: 0.4750714, y: 0.38456383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.15918, y: 35.695297}
+        - {x: -7.8408203, y: 35.695297}
+        - {x: -17.84082, y: 31.695297}
+        - {x: -21.84082, y: 13.695297}
+        - {x: -21.84082, y: -22.304703}
+        - {x: 15.15918, y: -22.304703}
+        - {x: 20.15918, y: -20.304703}
+        - {x: 25.15918, y: 0.69529724}
+        - {x: 25.15918, y: 33.695297}
+    - name: SetSuperhero_7
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 316
+        width: 101
+        height: 117
+      alignment: 9
+      pivot: {x: 0.49359795, y: 0.470911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.323303, y: 27.201706}
+        - {x: -0.6766968, y: 31.201706}
+        - {x: -17.676697, y: 31.201706}
+        - {x: -24.676697, y: 24.201706}
+        - {x: -24.676697, y: -8.798294}
+        - {x: -6.676697, y: -27.798294}
+        - {x: 13.323303, y: -27.798294}
+        - {x: 17.323303, y: -17.798294}
+        - {x: 24.323303, y: -1.7982941}
+        - {x: 24.323303, y: 6.201706}
+    - name: SetSuperhero_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 143
+        width: 191
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5255342, y: 0.40440902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.438522, y: 37.378845}
+        - {x: -50.438522, y: -19.621155}
+        - {x: -48.438522, y: -24.621155}
+        - {x: 34.561478, y: -24.621155}
+        - {x: 45.561478, y: -21.621155}
+        - {x: 45.561478, y: 37.378845}
+    - name: SetSuperhero_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 143
+        width: 113
+        height: 161
+      alignment: 9
+      pivot: {x: 0.4988949, y: 0.4775078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.937561, y: 42.810623}
+        - {x: -27.937561, y: 35.810623}
+        - {x: -27.937561, y: -33.189377}
+        - {x: -24.937561, y: -38.189377}
+        - {x: 16.062439, y: -38.189377}
+        - {x: 23.062439, y: -37.189377}
+        - {x: 29.062439, y: -26.189377}
+        - {x: 29.062439, y: 42.810623}
+    - name: SetSuperhero_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 137
+        width: 140
+        height: 167
+      alignment: 9
+      pivot: {x: 0.64193505, y: 0.3965445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.935455, y: 51.138535}
+        - {x: -44.935455, y: 42.138535}
+        - {x: -44.935455, y: -2.8614655}
+        - {x: -9.935455, y: -32.861465}
+        - {x: 10.064545, y: -32.861465}
+        - {x: 25.064545, y: -22.861465}
+        - {x: 25.064545, y: 21.138535}
+        - {x: -1.9354553, y: 51.138535}
+    - name: SetSuperhero_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 27}
+        - {x: -22, y: 27}
+        - {x: -22, y: -27}
+        - {x: 22, y: -27}
+        - {x: 22, y: 16}
+        - {x: 21, y: 23}
+    - name: SetSuperhero_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 11
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 22.5}
+        - {x: -19.5, y: -14.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 20.5, y: -19.5}
+        - {x: 20.5, y: 16.5}
+        - {x: 19.5, y: 22.5}
+    - name: SetSuperhero_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 11
+        width: 129
+        height: 84
+      alignment: 9
+      pivot: {x: 0.45125303, y: 0.40145347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.35582, y: 26.138954}
+        - {x: -29.35582, y: -16.861046}
+        - {x: 35.64418, y: -16.861046}
+        - {x: 35.64418, y: 11.138954}
+        - {x: 29.64418, y: 26.138954}
+    - name: SetSuperhero_14
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 11
+        width: 139
+        height: 87
+      alignment: 9
+      pivot: {x: 0.49483177, y: 0.37336612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.140808, y: 28.008574}
+        - {x: -34.14081, y: 24.008574}
+        - {x: -34.14081, y: -4.9914265}
+        - {x: -30.140808, y: -15.991426}
+        - {x: 34.85919, y: -15.991426}
+        - {x: 35.85919, y: -13.991426}
+        - {x: 35.85919, y: 15.008574}
+        - {x: 23.859192, y: 28.008574}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

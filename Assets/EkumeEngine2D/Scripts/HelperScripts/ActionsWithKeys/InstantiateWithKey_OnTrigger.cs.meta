@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 832c16edb812c9d43a903d1790750765
+timeCreated: 1485462432
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - inputControlsManager: {fileID: 11400000, guid: 04673422e89b7774ea991360850e0b35,
+      type: 2}
+  - positionToInstantiate: {instanceID: 0}
+  - gameObjectToInstantiate: {instanceID: 0}
+  executionOrder: 100
+  icon: {fileID: 2800000, guid: aa7ce8287d3362042b620941597cbe0d, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

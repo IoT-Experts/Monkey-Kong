@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: eb0ad951e9368dc4a8cb9eed388d79d3
+timeCreated: 1472708613
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SetIndian_0
+    21300002: SetIndian_1
+    21300004: SetIndian_2
+    21300006: SetIndian_3
+    21300008: SetIndian_4
+    21300010: SetIndian_5
+    21300012: SetIndian_6
+    21300014: SetIndian_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SetIndian_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 498
+        height: 592
+      alignment: 9
+      pivot: {x: 0.43715096, y: 0.25923532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.984375, y: 140.77046}
+        - {x: -69.984375, y: 119.77046}
+        - {x: -69.984375, y: 38.770466}
+        - {x: -65.984375, y: 26.770466}
+        - {x: -31.984375, y: -49.229534}
+        - {x: 22.015625, y: -49.229534}
+        - {x: 90.015625, y: 36.770466}
+        - {x: 90.015625, y: 110.77046}
+        - {x: 70.015625, y: 140.77046}
+      - - {x: 57.015625, y: -17.229534}
+        - {x: 54.015625, y: -17.229534}
+        - {x: 38.015625, y: -38.229534}
+        - {x: 38.015625, y: -44.229534}
+        - {x: 47.015625, y: -46.229534}
+        - {x: 58.015625, y: -46.229534}
+        - {x: 59.015625, y: -43.229534}
+        - {x: 59.015625, y: -18.229534}
+    - name: SetIndian_1
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 565
+        width: 229
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5414653, y: 0.4987275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.421417, y: 30.87532}
+        - {x: -22.578583, y: 30.87532}
+        - {x: -32.578583, y: -2.1246796}
+        - {x: -32.578583, y: -29.12468}
+        - {x: 32.421417, y: -29.12468}
+        - {x: 32.421417, y: -8.12468}
+        - {x: 28.421417, y: 23.87532}
+    - name: SetIndian_2
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 482
+        width: 222
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 24.5}
+        - {x: -111, y: 24.5}
+        - {x: -111, y: -14.5}
+        - {x: -78, y: -24.5}
+        - {x: 109, y: -24.5}
+        - {x: 111, y: -19.5}
+        - {x: 111, y: 23.5}
+        - {x: 109, y: 23.5}
+    - name: SetIndian_3
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 308
+        width: 237
+        height: 152
+      alignment: 9
+      pivot: {x: 0.4980214, y: 0.61966085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.310043, y: -30.260307}
+        - {x: 38.310043, y: -28.260307}
+        - {x: 38.310043, y: 19.739693}
+        - {x: -37.689957, y: 19.739693}
+        - {x: -37.689957, y: -30.260307}
+    - name: SetIndian_4
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 186
+        width: 134
+        height: 88
+      alignment: 9
+      pivot: {x: 0.47300878, y: 0.5082352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.38318, y: 43.2753}
+        - {x: -63.38318, y: -42.7247}
+        - {x: -45.38318, y: -44.7247}
+        - {x: 70.61682, y: -44.7247}
+        - {x: 70.61682, y: 22.2753}
+        - {x: 52.61682, y: 43.2753}
+    - name: SetIndian_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 12
+        width: 122
+        height: 90
+      alignment: 9
+      pivot: {x: 0.54836214, y: 0.9115047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.900177, y: 7.9645767}
+        - {x: -66.90018, y: -0.03542328}
+        - {x: -66.90018, y: -82.03542}
+        - {x: 19.099823, y: -82.03542}
+        - {x: 48.099823, y: -81.03542}
+        - {x: 55.099823, y: -78.03542}
+        - {x: 55.099823, y: 7.9645767}
+    - name: SetIndian_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 108
+        height: 114
+      alignment: 9
+      pivot: {x: 0.18295938, y: 0.71372646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.85692596, y: 10.7032585}
+        - {x: -6.143074, y: 0.7032585}
+        - {x: -6.143074, y: -19.296741}
+        - {x: -2.143074, y: -23.296741}
+        - {x: 2.856926, y: -26.296741}
+        - {x: 12.856926, y: -26.296741}
+        - {x: 28.856926, y: -6.2967415}
+        - {x: 28.856926, y: 8.7032585}
+        - {x: 22.856926, y: 10.7032585}
+    - name: SetIndian_7
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 73
+        width: 145
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46448016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 43.377106}
+        - {x: -72.5, y: 37.377106}
+        - {x: -72.5, y: -12.622894}
+        - {x: -65.5, y: -34.622894}
+        - {x: -61.5, y: -37.622894}
+        - {x: 21.5, y: -37.622894}
+        - {x: 72.5, y: -33.622894}
+        - {x: 72.5, y: 22.377106}
+        - {x: 38.5, y: 43.377106}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

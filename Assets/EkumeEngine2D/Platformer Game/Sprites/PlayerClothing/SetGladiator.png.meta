@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: e36174799e915c947833d930fae5289e
+timeCreated: 1472707618
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SetGladiator_0
+    21300002: SetGladiator_1
+    21300004: SetGladiator_2
+    21300006: SetGladiator_3
+    21300008: SetGladiator_4
+    21300010: SetGladiator_5
+    21300012: SetGladiator_6
+    21300014: SetGladiator_7
+    21300016: SetGladiator_8
+    21300018: SetGladiator_9
+    21300020: SetGladiator_10
+    21300022: SetGladiator_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SetGladiator_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 377
+        height: 543
+      alignment: 9
+      pivot: {x: 0.4860731, y: 0.32677016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.360283, y: -19.319168}
+        - {x: 87.36028, y: -53.319168}
+        - {x: 120.36028, y: -15.319168}
+        - {x: 123.36028, y: 190.68083}
+        - {x: 124.36028, y: 199.68083}
+        - {x: 124.36028, y: 225.68083}
+        - {x: 105.36028, y: 234.68083}
+        - {x: 11.360283, y: 234.68083}
+        - {x: -17.639717, y: 230.68083}
+        - {x: -62.639717, y: 196.68083}
+        - {x: -116.63972, y: 124.68083}
+        - {x: -117.63972, y: 116.68083}
+        - {x: -117.63972, y: 15.680832}
+        - {x: -82.63972, y: 19.680832}
+        - {x: -69.63972, y: -70.31917}
+        - {x: -32.639717, y: -113.31917}
+        - {x: 22.360283, y: -113.31917}
+        - {x: 20.360283, y: -24.319168}
+        - {x: 24.360283, y: 51.680832}
+      - - {x: 108.36028, y: -39.319168}
+        - {x: 67.36028, y: -76.31917}
+        - {x: 67.36028, y: -91.31917}
+        - {x: 91.36028, y: -101.31917}
+        - {x: 117.36028, y: -101.31917}
+        - {x: 117.36028, y: -55.319168}
+        - {x: 116.36028, y: -39.319168}
+      - - {x: -70.63972, y: -42.319168}
+        - {x: -91.63972, y: -42.319168}
+        - {x: -100.63972, y: -44.319168}
+        - {x: -100.63972, y: -51.319168}
+        - {x: -77.63972, y: -70.31917}
+        - {x: -72.63972, y: -71.31917}
+        - {x: -69.63972, y: -71.31917}
+        - {x: -68.63972, y: -69.31917}
+        - {x: -68.63972, y: -43.319168}
+    - name: SetGladiator_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 583
+        width: 124
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5047352, y: 0.58387935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.29576, y: 41.352844}
+        - {x: -40.29576, y: 29.352844}
+        - {x: -40.29576, y: -56.647156}
+        - {x: -38.29576, y: -57.647156}
+        - {x: 26.704239, y: -57.647156}
+        - {x: 39.70424, y: -46.647156}
+        - {x: 39.70424, y: 41.352844}
+    - name: SetGladiator_2
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 576
+        width: 155
+        height: 161
+      alignment: 9
+      pivot: {x: 0.6189181, y: 0.46327353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.396667, y: 56.424255}
+        - {x: -58.396667, y: 55.424255}
+        - {x: -61.396667, y: 48.424255}
+        - {x: -61.396667, y: -8.575745}
+        - {x: -30.396667, y: -47.575745}
+        - {x: 25.603333, y: -47.575745}
+        - {x: 38.603333, y: -38.575745}
+        - {x: 38.603333, y: 17.424255}
+        - {x: -0.39666748, y: 56.424255}
+    - name: SetGladiator_3
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 412
+        width: 243
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5239605, y: 0.49999946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.60632, y: -25.819977}
+        - {x: -61.606323, y: -36.819977}
+        - {x: 34.393677, y: -36.819977}
+        - {x: 74.39368, y: -19.819977}
+        - {x: 74.39368, y: 21.180023}
+        - {x: 69.39368, y: 38.180023}
+        - {x: -70.60632, y: 38.180023}
+        - {x: -81.60632, y: 18.180023}
+    - name: SetGladiator_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 296
+        width: 103
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5917548, y: 0.018695164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.708496, y: 40.346222}
+        - {x: -38.708496, y: 36.346222}
+        - {x: -38.708496, y: -0.6537781}
+        - {x: 28.291504, y: -0.6537781}
+        - {x: 28.291504, y: 20.346222}
+        - {x: 2.291504, y: 40.346222}
+    - name: SetGladiator_5
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 301
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.791023, y: 0.27246094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.072815, y: 31.751251}
+        - {x: -33.072815, y: 14.751251}
+        - {x: -33.072815, y: -9.248749}
+        - {x: -30.072815, y: -11.248749}
+        - {x: -12.072815, y: -11.248749}
+        - {x: 9.927185, y: 17.751251}
+        - {x: 9.927185, y: 31.751251}
+    - name: SetGladiator_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 200
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5114322, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.95668, y: 64.13999}
+        - {x: 18.95668, y: 60.13999}
+        - {x: 18.95668, y: 55.13999}
+        - {x: 7.9566803, y: 63.13999}
+        - {x: 3.9566803, y: 64.13999}
+        - {x: -26.04332, y: 64.13999}
+        - {x: -40.04332, y: 52.13999}
+        - {x: -65.04332, y: -34.86001}
+        - {x: -65.04332, y: -61.86001}
+        - {x: -60.04332, y: -62.86001}
+        - {x: 63.95668, y: -62.86001}
+        - {x: 63.95668, y: -13.860008}
+        - {x: 57.95668, y: 25.139992}
+        - {x: 39.95668, y: 64.13999}
+    - name: SetGladiator_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 142
+        width: 101
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21374166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.460007, y: 43.76924}
+        - {x: -32.460007, y: 20.769241}
+        - {x: -32.460007, y: -4.2307587}
+        - {x: -23.460007, y: -11.230759}
+        - {x: 11.539993, y: -11.230759}
+        - {x: 32.539993, y: -1.2307587}
+        - {x: 32.539993, y: 43.76924}
+    - name: SetGladiator_8
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 195
+        width: 218
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.56, y: 18.799995}
+        - {x: -69.56, y: -5.2000046}
+        - {x: -57.559998, y: -12.200005}
+        - {x: -6.5599976, y: -17.200005}
+        - {x: 51.440002, y: -17.200005}
+        - {x: 70.44, y: -10.200005}
+        - {x: 70.44, y: 18.799995}
+    - name: SetGladiator_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 33
+        width: 79
+        height: 66
+      alignment: 9
+      pivot: {x: 0.4909807, y: -0.20072527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.96399, y: 51.21863}
+        - {x: -24.96399, y: 14.218632}
+        - {x: -21.96399, y: 8.218632}
+        - {x: 20.03601, y: 8.218632}
+        - {x: 26.03601, y: 13.218632}
+        - {x: 26.03601, y: 38.21863}
+        - {x: -0.96398926, y: 51.21863}
+    - name: SetGladiator_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 23
+        width: 132
+        height: 120
+      alignment: 9
+      pivot: {x: 0.49589145, y: 0.32826883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.91293335, y: 52.90895}
+        - {x: -34.912933, y: 42.90895}
+        - {x: -41.912933, y: 32.90895}
+        - {x: -41.912933, y: -16.091051}
+        - {x: -26.912933, y: -25.091051}
+        - {x: 37.087067, y: -25.091051}
+        - {x: 43.087067, y: -23.091051}
+        - {x: 43.087067, y: 8.908949}
+        - {x: 30.087067, y: 52.90895}
+    - name: SetGladiator_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 40
+        width: 141
+        height: 115
+      alignment: 9
+      pivot: {x: 0.50175965, y: 0.3135431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.25879, y: 51.823223}
+        - {x: -45.25879, y: 38.823223}
+        - {x: -45.25879, y: -21.176777}
+        - {x: -38.25879, y: -23.176777}
+        - {x: 45.74121, y: -23.176777}
+        - {x: 45.74121, y: 28.823223}
+        - {x: 33.74121, y: 51.823223}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

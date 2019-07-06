@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: ffbae438cfb4e3049baed2532b69c9c7
+timeCreated: 1478026943
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FlyIcon_0
+    21300002: FlyIcon_1
+    21300004: FlyIcon_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 128
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: -1
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.50542957, y: 0.6860465}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FlyIcon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 158
+        height: 166
+      alignment: 9
+      pivot: {x: 0.50542957, y: 0.67226523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.66149, y: 39.950058}
+        - {x: -61.66149, y: 15.950058}
+        - {x: -61.66149, y: -67.04994}
+        - {x: -45.66149, y: -86.04994}
+        - {x: -34.66149, y: -86.04994}
+        - {x: 0.3385086, y: -56.049942}
+        - {x: 0.3385086, y: 39.950058}
+      - - {x: 9.338509, y: 41.950058}
+        - {x: 0.3385086, y: 35.950058}
+        - {x: 0.3385086, y: -27.049942}
+        - {x: 14.338509, y: -68.04994}
+        - {x: 57.33851, y: -68.04994}
+        - {x: 60.33851, y: -54.049942}
+        - {x: 60.33851, y: 11.950058}
+        - {x: 36.33851, y: 41.950058}
+    - name: FlyIcon_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 166
+      alignment: 9
+      pivot: {x: 0.9360895, y: 0.6705426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.900944, y: 40.170547}
+        - {x: -57.900944, y: 16.170547}
+        - {x: -57.900944, y: -66.82945}
+        - {x: -41.900944, y: -85.82945}
+        - {x: -30.900944, y: -85.82945}
+        - {x: 4.0990562, y: -55.829453}
+        - {x: 4.0990562, y: 40.170547}
+    - name: FlyIcon_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 77
+        height: 166
+      alignment: 9
+      pivot: {x: 0.0840574, y: 0.69810504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.15379715, y: 38.642563}
+        - {x: -4.846203, y: 20.642563}
+        - {x: -4.846203, y: -17.357437}
+        - {x: 31.153797, y: -65.35744}
+        - {x: 40.153797, y: -71.35744}
+        - {x: 47.153797, y: -71.35744}
+        - {x: 55.153797, y: -57.357437}
+        - {x: 55.153797, y: 28.642563}
+        - {x: 37.153797, y: 38.642563}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

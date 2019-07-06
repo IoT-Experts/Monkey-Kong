@@ -1,0 +1,557 @@
+fileFormatVersion: 2
+guid: 1f721b38c748fb5468a6526e2ceb4fdf
+timeCreated: 1481760344
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IconsForMaps_0
+    21300002: IconsForMaps_1
+    21300004: IconsForMaps_2
+    21300006: IconsForMaps_3
+    21300008: IconsForMaps_4
+    21300010: IconsForMaps_5
+    21300012: IconsForMaps_6
+    21300014: IconsForMaps_7
+    21300016: IconsForMaps_8
+    21300018: IconsForMaps_9
+    21300020: IconsForMaps_10
+    21300022: IconsForMaps_11
+    21300024: IconsForMaps_12
+    21300026: IconsForMaps_13
+    21300028: IconsForMaps_14
+    21300030: IconsForMaps_15
+    21300032: IconsForMaps_16
+    21300034: LockedIcon
+    21300036: IconsForMaps_18
+    21300038: IconsForMaps_19
+    21300040: Star1
+    21300042: Star2
+    21300044: Star3
+    21300046: IconsForMaps_23
+    21300048: IconsForMaps_24
+    21300050: DisabledStars
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: IconsForMaps_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 411
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 23}
+        - {x: -24, y: 17}
+        - {x: -25, y: 13}
+        - {x: -25, y: -15}
+        - {x: -11, y: -23}
+        - {x: 13, y: -23}
+        - {x: 25, y: -18}
+        - {x: 25, y: 18}
+        - {x: 12, y: 23}
+    - name: IconsForMaps_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 398
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 16.5}
+        - {x: -35.5, y: -11.5}
+        - {x: -19.5, y: -30.5}
+        - {x: 14.5, y: -30.5}
+        - {x: 35.5, y: -19.5}
+        - {x: 35.5, y: -1.5}
+        - {x: 30.5, y: 20.5}
+        - {x: 17.5, y: 30.5}
+        - {x: -19.5, y: 30.5}
+        - {x: -29.5, y: 28.5}
+    - name: IconsForMaps_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 384
+        width: 81
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 43}
+        - {x: -40.5, y: -20}
+        - {x: -36.5, y: -24}
+        - {x: 15.5, y: -43}
+        - {x: 40.5, y: -43}
+        - {x: 40.5, y: 34}
+        - {x: -15.5, y: 43}
+    - name: IconsForMaps_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 394
+        width: 128
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 38}
+        - {x: -64, y: 11}
+        - {x: -64, y: -38}
+        - {x: -28, y: -38}
+        - {x: -24, y: -37}
+        - {x: -24, y: 38}
+      - - {x: 41, y: 38}
+        - {x: 27, y: 26}
+        - {x: 27, y: 4}
+        - {x: 24, y: -7}
+        - {x: 24, y: -28}
+        - {x: 26, y: -33}
+        - {x: 38, y: -38}
+        - {x: 61, y: -38}
+        - {x: 64, y: -37}
+        - {x: 64, y: 14}
+        - {x: 52, y: 38}
+    - name: IconsForMaps_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 400
+        width: 106
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 35}
+        - {x: -53, y: -35}
+        - {x: 53, y: -35}
+        - {x: 53, y: 35}
+    - name: IconsForMaps_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 65}
+        - {x: -65, y: 56}
+        - {x: -65, y: -35}
+        - {x: -50, y: -65}
+        - {x: 37, y: -65}
+        - {x: 65, y: -38}
+        - {x: 65, y: 65}
+    - name: IconsForMaps_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 268
+        width: 118
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 28}
+        - {x: 29, y: 17}
+        - {x: 13, y: -3}
+        - {x: 13, y: -51}
+        - {x: 14, y: -57}
+        - {x: 35, y: -57}
+        - {x: 53, y: -47}
+        - {x: 59, y: -43}
+        - {x: 59, y: 28}
+      - - {x: -41, y: 57}
+        - {x: -59, y: 42}
+        - {x: -59, y: -9}
+        - {x: -53, y: -13}
+        - {x: -45, y: -15}
+        - {x: -8, y: -15}
+        - {x: -8, y: 53}
+        - {x: -19, y: 57}
+    - name: IconsForMaps_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 335
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 29.5}
+        - {x: -16.5, y: 29.5}
+        - {x: -25.5, y: 27.5}
+        - {x: -25.5, y: -6.5}
+        - {x: -19.5, y: -27.5}
+        - {x: -17.5, y: -29.5}
+        - {x: -10.5, y: -29.5}
+        - {x: -8.5, y: -27.5}
+        - {x: 25.5, y: -5.5}
+        - {x: 25.5, y: 16.5}
+    - name: IconsForMaps_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 348
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 21.5}
+        - {x: -28, y: -7.5}
+        - {x: -12, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 28, y: -13.5}
+        - {x: 28, y: 11.5}
+        - {x: -5, y: 21.5}
+    - name: IconsForMaps_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 334
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 30.5}
+        - {x: -35.5, y: 21.5}
+        - {x: -35.5, y: -16.5}
+        - {x: -0.5, y: -30.5}
+        - {x: 16.5, y: -30.5}
+        - {x: 35.5, y: -16.5}
+        - {x: 35.5, y: 18.5}
+        - {x: 10.5, y: 30.5}
+    - name: IconsForMaps_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 315
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: IconsForMaps_13
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 299
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 15}
+        - {x: -6, y: 24}
+        - {x: -26, y: 24}
+        - {x: -34, y: 12}
+        - {x: -34, y: -11}
+        - {x: -21, y: -17}
+        - {x: 0, y: -24}
+        - {x: 13, y: -24}
+        - {x: 22, y: -19}
+        - {x: 34, y: -12}
+        - {x: 34, y: 10}
+    - name: IconsForMaps_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 65}
+        - {x: -65, y: 56}
+        - {x: -65, y: -35}
+        - {x: -50, y: -65}
+        - {x: 37, y: -65}
+        - {x: 65, y: -38}
+        - {x: 65, y: 65}
+    - name: IconsForMaps_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 211
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -20.5, y: 11.5}
+        - {x: -20.5, y: -13.5}
+        - {x: -12.5, y: -20.5}
+        - {x: 18.5, y: -20.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 20.5, y: 17.5}
+        - {x: 15.5, y: 20.5}
+    - name: IconsForMaps_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 208
+        width: 110
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 31.5}
+        - {x: -55, y: 30.5}
+        - {x: -55, y: -30.5}
+        - {x: -54, y: -31.5}
+        - {x: 54, y: -31.5}
+        - {x: 55, y: -30.5}
+        - {x: 55, y: 23.5}
+        - {x: 51, y: 31.5}
+    - name: LockedIcon
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 88
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 10.5}
+        - {x: 22.5, y: 34.5}
+        - {x: -21.5, y: 34.5}
+        - {x: -39.5, y: 26.5}
+        - {x: -39.5, y: -33.5}
+        - {x: -37.5, y: -34.5}
+        - {x: 38.5, y: -34.5}
+        - {x: 39.5, y: -32.5}
+        - {x: 39.5, y: -8.5}
+        - {x: 38.5, y: -1.5}
+    - name: IconsForMaps_18
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 140
+        width: 110
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 31.5}
+        - {x: -53, y: 26.5}
+        - {x: -55, y: 23.5}
+        - {x: -55, y: -29.5}
+        - {x: -48, y: -31.5}
+        - {x: 44, y: -31.5}
+        - {x: 55, y: -15.5}
+        - {x: 55, y: 21.5}
+        - {x: 43, y: 31.5}
+    - name: IconsForMaps_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 65}
+        - {x: -65, y: 56}
+        - {x: -65, y: -35}
+        - {x: -50, y: -65}
+        - {x: 37, y: -65}
+        - {x: 65, y: -38}
+        - {x: 65, y: 65}
+    - name: Star1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 66
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 24.5}
+        - {x: -24, y: 10.5}
+        - {x: -24, y: -11.5}
+        - {x: -12, y: -24.5}
+        - {x: 5, y: -24.5}
+        - {x: 24, y: -18.5}
+        - {x: 24, y: 24.5}
+    - name: Star2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 80
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 23}
+        - {x: -10, y: 23}
+        - {x: -24, y: 17}
+        - {x: -24, y: -19}
+        - {x: -23, y: -22}
+        - {x: -20, y: -23}
+        - {x: 18, y: -23}
+        - {x: 24, y: -2}
+        - {x: 24, y: 12}
+    - name: Star3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 64
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -22.5}
+        - {x: -22, y: -24.5}
+        - {x: -22, y: -25.5}
+        - {x: -14, y: -25.5}
+        - {x: -13, y: -24.5}
+        - {x: -13, y: -22.5}
+        - {x: -16, y: -21.5}
+      - - {x: 16, y: 25.5}
+        - {x: -12, y: 25.5}
+        - {x: -24, y: 23.5}
+        - {x: -24, y: -24.5}
+        - {x: -13, y: -25.5}
+        - {x: 9, y: -25.5}
+        - {x: 24, y: -12.5}
+        - {x: 24, y: 6.5}
+        - {x: 19, y: 19.5}
+    - name: IconsForMaps_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: IconsForMaps_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 23
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DisabledStars
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3
+        width: 141
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -12.5}
+        - {x: -13.5, y: -19.5}
+        - {x: 16.5, y: -20.5}
+        - {x: 21.5, y: -12.5}
+        - {x: 21.5, y: 1.5}
+        - {x: 22.5, y: -5.5}
+        - {x: 20.5, y: -19.5}
+        - {x: 26.5, y: -22.5}
+        - {x: 39.5, y: -30.5}
+        - {x: 65.5, y: -30.5}
+        - {x: 70.5, y: -21.5}
+        - {x: 70.5, y: 15.5}
+        - {x: 60.5, y: 23.5}
+        - {x: 13.5, y: 30.5}
+        - {x: -17.5, y: 30.5}
+        - {x: -70.5, y: 20.5}
+        - {x: -70.5, y: -18.5}
+        - {x: -59.5, y: -30.5}
+        - {x: -32.5, y: -30.5}
+        - {x: -20.5, y: -27.5}
+        - {x: -20.5, y: -12.5}
+        - {x: -22.5, y: -6.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 9de6f5e583303d643b0fafef3ed0bd9a
+timeCreated: 1475703430
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Slingshot1
+    21300002: Spring1
+    21300004: spring2
+    21300006: Slingshot2
+    21300008: GunSlingshot
+    21300010: Spring_GunSlingshot
+    21300012: Trigger_GunSlingshot
+    21300014: Cube_GunSlingshot
+    21300016: Sword1
+    21300018: Sword2
+    21300020: Sword3
+    21300022: BowRope2
+    21300024: Bow1
+    21300026: Bow2
+    21300028: Bow3
+    21300030: Hammer1
+    21300032: Hammer2
+    21300034: Hammer3
+    21300036: Hammer4
+    21300038: Bow_Rope1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slingshot1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 845
+        width: 82
+        height: 175
+      alignment: 9
+      pivot: {x: 0.53831196, y: 0.25687397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Spring1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 871
+        width: 48
+        height: 136
+      alignment: 9
+      pivot: {x: 0.8110431, y: 0.9391201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spring2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 871
+        width: 95
+        height: 129
+      alignment: 9
+      pivot: {x: 0.88167083, y: 0.946414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Slingshot2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 829
+        width: 73
+        height: 192
+      alignment: 9
+      pivot: {x: 0.54382616, y: 0.31393018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GunSlingshot
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 842
+        width: 269
+        height: 178
+      alignment: 9
+      pivot: {x: 0.17095199, y: 0.47603548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Spring_GunSlingshot
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 949
+        width: 119
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Trigger_GunSlingshot
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 864
+        width: 29
+        height: 68
+      alignment: 9
+      pivot: {x: 0.18742634, y: 0.92343765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Cube_GunSlingshot
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 880
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sword1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 393
+        width: 72
+        height: 400
+      alignment: 9
+      pivot: {x: 0.5095604, y: 0.16759102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sword2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 361
+        width: 144
+        height: 464
+      alignment: 9
+      pivot: {x: 0.4957052, y: 0.13478628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sword3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 353
+        width: 129
+        height: 467
+      alignment: 9
+      pivot: {x: 0.48932785, y: 0.13592203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BowRope2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 390
+        width: 4
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bow1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 341
+        width: 114
+        height: 465
+      alignment: 9
+      pivot: {x: 0.83814067, y: 0.5029607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bow2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 344
+        width: 184
+        height: 466
+      alignment: 9
+      pivot: {x: 0.6711594, y: 0.5014772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bow3
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 336
+        width: 131
+        height: 475
+      alignment: 9
+      pivot: {x: 0.83629674, y: 0.5043475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hammer1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 147
+        height: 316
+      alignment: 9
+      pivot: {x: 0.49193096, y: 0.21972644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hammer2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 5
+        width: 244
+        height: 318
+      alignment: 9
+      pivot: {x: 0.5048614, y: 0.2127857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hammer3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 6
+        width: 281
+        height: 304
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24804635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hammer4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1
+        width: 281
+        height: 333
+      alignment: 9
+      pivot: {x: 0.49413824, y: 0.31450668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bow_Rope1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 585
+        width: 4
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

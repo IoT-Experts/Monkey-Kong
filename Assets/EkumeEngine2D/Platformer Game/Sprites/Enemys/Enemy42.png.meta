@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: 6e20f9cfb7de9ce4884917da84f1cd55
+timeCreated: 1478126692
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy42_0
+    21300002: Enemy42_1
+    21300004: Enemy42_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: -1
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemy42_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 441
+        width: 222
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.05878, y: 46.714813}
+        - {x: -41.05878, y: -38.285187}
+        - {x: -8.058781, y: -46.285187}
+        - {x: 41.94122, y: -46.285187}
+        - {x: 41.94122, y: 12.714813}
+        - {x: -16.05878, y: 46.714813}
+    - name: Enemy42_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 433
+        width: 149
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.400581, y: 47.753998}
+        - {x: -27.599419, y: -0.2460022}
+        - {x: -27.599419, y: -47.246002}
+        - {x: 9.400581, y: -47.246002}
+        - {x: 26.400581, y: -41.246002}
+        - {x: 28.400581, y: -29.246002}
+        - {x: 28.400581, y: 47.753998}
+    - name: Enemy42_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 689
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.5, y: 76}
+        - {x: 50.5, y: 77}
+        - {x: -33.5, y: 77}
+        - {x: -63.5, y: 66}
+        - {x: -103.5, y: 25}
+        - {x: -127.5, y: -6}
+        - {x: -127.5, y: -47}
+        - {x: -122.5, y: -57}
+        - {x: -51.5, y: -77}
+        - {x: 74.5, y: -77}
+        - {x: 127.5, y: -52}
+        - {x: 127.5, y: 13}
+        - {x: 102.5, y: 50}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

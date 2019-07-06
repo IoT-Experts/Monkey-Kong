@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 9a87a6d214205d8499ee3acb3c4456d9
+timeCreated: 1475722581
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mount2_0
+    21300002: Mount2_1
+    21300004: Mount2_2
+    21300006: Mount2_3
+    21300008: Mount2_4
+    21300010: Mount2_5
+    21300012: Mount2_6
+    21300014: Mount2_7
+    21300016: Mount2_8
+    21300018: Mount2_9
+    21300020: Mount2_10
+    21300022: Mount2_11
+    21300024: Mount2_12
+    21300026: Mount2_13
+    21300028: Mount2_14
+    21300030: Mount2_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mount2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 281
+        height: 279
+      alignment: 9
+      pivot: {x: 0.97267383, y: 0.9737422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount2_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 400
+        width: 433
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount2_2
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 412
+        width: 80
+        height: 124
+      alignment: 9
+      pivot: {x: 0.4345482, y: 0.8004064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount2_3
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 536
+        width: 80
+        height: 105
+      alignment: 9
+      pivot: {x: 0.48154297, y: 0.7671834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount2_4
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 411
+        width: 66
+        height: 124
+      alignment: 9
+      pivot: {x: 0.50109863, y: 0.7935048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount2_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 320
+        height: 383
+      alignment: 9
+      pivot: {x: 0.19324064, y: 0.13816443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount2_6
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 228
+        width: 125
+        height: 147
+      alignment: 9
+      pivot: {x: 0.44684425, y: 0.7762237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount2_7
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 232
+        width: 125
+        height: 147
+      alignment: 9
+      pivot: {x: 0.46456298, y: 0.7712016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount2_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 342
+        width: 75
+        height: 61
+      alignment: 9
+      pivot: {x: 0.27299398, y: 0.84539497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount2_9
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 345
+        width: 74
+        height: 61
+      alignment: 9
+      pivot: {x: 0.2699255, y: 0.84190595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 183
+        height: 239
+      alignment: 9
+      pivot: {x: 0.5052589, y: 0.5604005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount2_11
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 101
+        width: 78
+        height: 120
+      alignment: 9
+      pivot: {x: 0.64751494, y: 0.8835402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount2_12
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 102
+        width: 78
+        height: 120
+      alignment: 9
+      pivot: {x: 0.66092545, y: 0.8791817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount2_13
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 50
+        width: 64
+        height: 46
+      alignment: 9
+      pivot: {x: 0.271183, y: 0.7842439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount2_14
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 50
+        width: 64
+        height: 46
+      alignment: 9
+      pivot: {x: 0.2221508, y: 0.7842439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount2_15
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 536
+        width: 80
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.73202837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

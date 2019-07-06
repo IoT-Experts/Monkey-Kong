@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7d084cea4e5b44046a58e610a8400d81
+timeCreated: 1460000845
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - weaponFactory: {fileID: 11400000, guid: 68b5100dcc72c9d46be35ea471932526, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

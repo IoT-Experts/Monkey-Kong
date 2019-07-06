@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: e0dac9dc56e6ed84e98d9471c4608412
+timeCreated: 1472707094
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MonkSet_0
+    21300002: MonkSet_1
+    21300004: MonkSet_3
+    21300006: MonkSet_4
+    21300008: MonkSet_5
+    21300010: MonkSet_6
+    21300012: MonkSet_7
+    21300014: MonkSet_8
+    21300016: MonkSet_9
+    21300018: MonkSet_10
+    21300020: MonkSet_11
+    21300022: MonkSet_12
+    21300024: MonkSet_13
+    21300026: MonkSet_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MonkSet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 492
+        height: 368
+      alignment: 9
+      pivot: {x: 0.6248495, y: 0.7429972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136.94455, y: -95.22284}
+        - {x: -174.94455, y: -117.22284}
+        - {x: -174.94455, y: -134.22284}
+        - {x: -161.94455, y: -154.22284}
+        - {x: -144.94455, y: -155.22284}
+        - {x: -106.94455, y: -155.22284}
+        - {x: -99.94455, y: -131.22284}
+        - {x: -99.94455, y: -105.22284}
+        - {x: -111.94455, y: -95.22284}
+      - - {x: -8.94455, y: 54.77716}
+        - {x: -100.94455, y: 26.77716}
+        - {x: -104.94455, y: 12.777161}
+        - {x: -104.94455, y: -36.22284}
+        - {x: -100.94455, y: -44.22284}
+        - {x: 8.05545, y: -44.22284}
+        - {x: 104.05545, y: -36.22284}
+        - {x: 105.05545, y: -35.22284}
+        - {x: 105.05545, y: 24.77716}
+        - {x: 91.05545, y: 54.77716}
+    - name: MonkSet_1
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 711
+        width: 151
+        height: 168
+      alignment: 9
+      pivot: {x: 0.47537738, y: 0.4844226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.437378, y: 50.46878}
+        - {x: -40.562622, y: -4.5312195}
+        - {x: -40.562622, y: -46.53122}
+        - {x: -7.562622, y: -46.53122}
+        - {x: 13.437378, y: -36.53122}
+        - {x: 46.437378, y: 20.46878}
+        - {x: 46.437378, y: 50.46878}
+    - name: MonkSet_3
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 566
+        width: 118
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5587732, y: 0.41621304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.127594, y: 44.092316}
+        - {x: -37.127594, y: 8.092316}
+        - {x: -37.127594, y: -23.907684}
+        - {x: -32.127594, y: -29.907684}
+        - {x: 1.872406, y: -29.907684}
+        - {x: 23.872406, y: -27.907684}
+        - {x: 30.872406, y: -19.907684}
+        - {x: 30.872406, y: 44.092316}
+    - name: MonkSet_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 288
+        width: 207
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.153336, y: 60.839996}
+        - {x: 22.153336, y: 57.839996}
+        - {x: 5.1533356, y: 60.839996}
+        - {x: -22.846664, y: 60.839996}
+        - {x: -46.846664, y: 49.839996}
+        - {x: -58.846664, y: -29.160004}
+        - {x: -58.846664, y: -55.160004}
+        - {x: -54.846664, y: -59.160004}
+        - {x: 60.153336, y: -59.160004}
+        - {x: 60.153336, y: -0.16000366}
+        - {x: 44.153336, y: 60.839996}
+    - name: MonkSet_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 347
+        width: 114
+        height: 136
+      alignment: 9
+      pivot: {x: 0.42105746, y: 0.49999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.05809, y: 39.40448}
+        - {x: -27.05809, y: 35.40448}
+        - {x: -27.05809, y: -35.59552}
+        - {x: -26.05809, y: -38.59552}
+        - {x: 37.94191, y: -38.59552}
+        - {x: 38.94191, y: -35.59552}
+        - {x: 38.94191, y: 38.40448}
+        - {x: 35.94191, y: 39.40448}
+    - name: MonkSet_6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 350
+        width: 140
+        height: 133
+      alignment: 9
+      pivot: {x: 0.68033445, y: 0.33831006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.120407, y: 50.34494}
+        - {x: -40.120407, y: 50.34494}
+        - {x: -54.120407, y: 43.34494}
+        - {x: -54.120407, y: 3.3449402}
+        - {x: -21.120407, y: -25.65506}
+        - {x: -12.120407, y: -25.65506}
+        - {x: -0.120407104, y: -18.65506}
+        - {x: 26.879593, y: 6.34494}
+        - {x: 26.879593, y: 27.34494}
+    - name: MonkSet_7
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 385
+        width: 75
+        height: 149
+      alignment: 9
+      pivot: {x: 0.47607502, y: 0.5779898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.800812, y: 35.911453}
+        - {x: -20.199188, y: 35.911453}
+        - {x: -20.199188, y: -45.088547}
+        - {x: -7.199188, y: -49.088547}
+        - {x: 22.800812, y: -49.088547}
+        - {x: 22.800812, y: -11.088547}
+        - {x: 12.800812, y: 34.911453}
+    - name: MonkSet_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 134
+        width: 219
+        height: 122
+      alignment: 9
+      pivot: {x: 0.49474055, y: 0.7271774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.604744, y: 19.46399}
+        - {x: -61.604744, y: -18.53601}
+        - {x: -20.604744, y: -50.53601}
+        - {x: 52.395256, y: -50.53601}
+        - {x: 63.395256, y: -31.53601}
+        - {x: 63.395256, y: 19.46399}
+    - name: MonkSet_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 134
+        width: 111
+        height: 142
+      alignment: 9
+      pivot: {x: 0.45362043, y: 0.502789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.249069, y: 41.005806}
+        - {x: -25.24907, y: 33.005806}
+        - {x: -28.24907, y: 21.005806}
+        - {x: -28.24907, y: -35.994194}
+        - {x: -23.24907, y: -40.994194}
+        - {x: 35.75093, y: -40.994194}
+        - {x: 35.75093, y: 24.005806}
+        - {x: 20.75093, y: 41.005806}
+    - name: MonkSet_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 152
+        width: 95
+        height: 124
+      alignment: 9
+      pivot: {x: 0.43330336, y: 0.4968066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.446808, y: 36.69639}
+        - {x: -19.553192, y: 36.69639}
+        - {x: -23.553192, y: 35.69639}
+        - {x: -23.553192, y: -34.30361}
+        - {x: -18.553192, y: -35.30361}
+        - {x: 18.446808, y: -35.30361}
+        - {x: 31.446808, y: -27.303612}
+        - {x: 31.446808, y: -8.303612}
+        - {x: 23.446808, y: 16.696388}
+    - name: MonkSet_11
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 229
+        width: 89
+        height: 120
+      alignment: 9
+      pivot: {x: 0.64349294, y: 0.44159138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.485199, y: 38.76291}
+        - {x: -32.4852, y: 36.76291}
+        - {x: -32.4852, y: -4.237091}
+        - {x: -16.485199, y: -30.237091}
+        - {x: 2.514801, y: -30.237091}
+        - {x: 18.514801, y: 6.762909}
+        - {x: 18.514801, y: 23.762909}
+        - {x: 4.514801, y: 38.76291}
+    - name: MonkSet_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 213
+        height: 116
+      alignment: 9
+      pivot: {x: 0.52168244, y: 0.45487818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.612663, y: 35.97764}
+        - {x: -63.387337, y: 35.97764}
+        - {x: -63.387337, y: -24.022362}
+        - {x: -45.387337, y: -30.022362}
+        - {x: 47.612663, y: -30.022362}
+        - {x: 58.612663, y: -3.0223618}
+        - {x: 58.612663, y: 34.97764}
+    - name: MonkSet_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 14
+        width: 132
+        height: 55
+      alignment: 9
+      pivot: {x: 0.465176, y: 0.67372113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.40323, y: 17.94534}
+        - {x: -61.40323, y: 13.945339}
+        - {x: -61.40323, y: -21.05466}
+        - {x: -52.40323, y: -37.05466}
+        - {x: 53.59677, y: -37.05466}
+        - {x: 70.59677, y: -28.05466}
+        - {x: 70.59677, y: 4.945339}
+        - {x: 48.59677, y: 17.94534}
+    - name: MonkSet_14
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 14
+        width: 129
+        height: 58
+      alignment: 9
+      pivot: {x: 0.49720278, y: 0.6057611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.452515, y: 14.474798}
+        - {x: -36.452515, y: 5.474798}
+        - {x: -36.452515, y: -9.525202}
+        - {x: -29.452515, y: -18.525202}
+        - {x: -26.452515, y: -19.525202}
+        - {x: 36.547485, y: -19.525202}
+        - {x: 37.547485, y: -17.525202}
+        - {x: 37.547485, y: 14.474798}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

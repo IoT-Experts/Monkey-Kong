@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 6b5e2f84efb076340b4899aedb86eab9
+timeCreated: 1475627292
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BowArrow3
+    21300002: BowArrow2
+    21300004: BowArrow1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: -1
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BowArrow3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 400
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 19}
+        - {x: -200, y: -19}
+        - {x: 198, y: -19}
+        - {x: 200, y: -8}
+        - {x: 200, y: 5}
+        - {x: 161, y: 19}
+    - name: BowArrow2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 400
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: 19.5}
+        - {x: 147, y: 19.5}
+        - {x: 146, y: 16.5}
+        - {x: 153, y: 11.5}
+        - {x: -22, y: 19.5}
+        - {x: -200, y: 19.5}
+        - {x: -200, y: -19.5}
+        - {x: 159, y: -19.5}
+        - {x: 200, y: -4.5}
+        - {x: 200, y: 2.5}
+        - {x: 176, y: 13.5}
+    - name: BowArrow1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 156, y: 19.5}
+        - {x: 147, y: 19.5}
+        - {x: 146, y: 16.5}
+        - {x: 86, y: 19.5}
+        - {x: -200, y: 19.5}
+        - {x: -200, y: -19.5}
+        - {x: 188, y: -19.5}
+        - {x: 200, y: -5.5}
+        - {x: 200, y: 3.5}
+        - {x: 185, y: 9.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

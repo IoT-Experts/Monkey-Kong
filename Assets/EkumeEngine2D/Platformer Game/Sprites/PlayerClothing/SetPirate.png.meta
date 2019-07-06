@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 38b4e50c21bd9eb499599cd2cf884a21
+timeCreated: 1472695443
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SetPirate_0
+    21300002: SetPirate_2
+    21300004: SetPirate_3
+    21300006: SetPirate_4
+    21300008: SetPirate_5
+    21300010: SetPirate_6
+    21300012: SetPirate_7
+    21300014: SetPirate_8
+    21300016: SetPirate_9
+    21300018: SetPirate_10
+    21300020: SetPirate_11
+    21300022: SetPirate_12
+    21300024: SetPirate_13
+    21300026: SetPirate_14
+    21300028: SetPirate_15
+    21300030: SetPirate_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SetPirate_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 923
+        width: 332
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: 8}
+        - {x: -82, y: 5}
+        - {x: -83, y: 4}
+        - {x: -83, y: -22}
+        - {x: -82, y: -25}
+        - {x: -51, y: -25}
+        - {x: -51, y: 8}
+      - - {x: 66, y: 26}
+        - {x: 64, y: 19}
+        - {x: 64, y: -7}
+        - {x: 78, y: -7}
+        - {x: 84, y: -4}
+        - {x: 84, y: 18}
+        - {x: 78, y: 26}
+    - name: SetPirate_2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 868
+        width: 107
+        height: 130
+      alignment: 9
+      pivot: {x: 0.52632326, y: 0.48555627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.091705, y: 33.438843}
+        - {x: 11.091705, y: 32.438843}
+        - {x: -27.908295, y: -0.5611572}
+        - {x: -27.908295, y: -31.561157}
+        - {x: 2.0917053, y: -31.561157}
+        - {x: 26.091705, y: 0.43884277}
+        - {x: 26.091705, y: 33.438843}
+    - name: SetPirate_3
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 849
+        width: 68
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 38}
+        - {x: -17, y: 38}
+        - {x: -17, y: -13}
+        - {x: -12, y: -37}
+        - {x: 17, y: -37}
+        - {x: 17, y: 5}
+        - {x: 13, y: 15}
+    - name: SetPirate_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 519
+        width: 474
+        height: 359
+      alignment: 9
+      pivot: {x: 0.54071265, y: 0.40160182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.148895, y: 108.162476}
+        - {x: -128.1489, y: 0.16247559}
+        - {x: -128.1489, y: -46.837524}
+        - {x: -126.148895, y: -50.837524}
+        - {x: -113.148895, y: -65.837524}
+        - {x: -96.148895, y: -71.837524}
+        - {x: 35.851105, y: -71.837524}
+        - {x: 75.851105, y: -69.837524}
+        - {x: 109.851105, y: -33.837524}
+        - {x: 109.851105, y: 108.162476}
+    - name: SetPirate_5
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 655
+        width: 92
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5054414, y: 0.5383989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.250305, y: 33.292877}
+        - {x: -15.250305, y: 31.292877}
+        - {x: -22.250305, y: 1.2928772}
+        - {x: -23.250305, y: -5.707123}
+        - {x: -23.250305, y: -36.707123}
+        - {x: -21.250305, y: -37.707123}
+        - {x: 21.749695, y: -37.707123}
+        - {x: 22.749695, y: -26.707123}
+        - {x: 22.749695, y: 33.292877}
+    - name: SetPirate_6
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 663
+        width: 100
+        height: 110
+      alignment: 9
+      pivot: {x: 0.47894958, y: 0.47696868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.94748, y: 29.766724}
+        - {x: -23.94748, y: 1.7667236}
+        - {x: -19.94748, y: -12.233276}
+        - {x: -1.9474792, y: -26.233276}
+        - {x: 20.05252, y: -26.233276}
+        - {x: 27.05252, y: -11.233276}
+        - {x: 27.05252, y: 13.766724}
+        - {x: 3.0525208, y: 29.766724}
+    - name: SetPirate_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 448
+        width: 121
+        height: 144
+      alignment: 9
+      pivot: {x: 0.54457587, y: 0.5169894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.19684, y: -37.223236}
+        - {x: 20.803162, y: -37.223236}
+        - {x: 27.803162, y: -34.223236}
+        - {x: 27.803162, y: 34.776764}
+        - {x: -23.196838, y: 34.776764}
+        - {x: -33.19684, y: 32.776764}
+    - name: SetPirate_8
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 457
+        width: 129
+        height: 135
+      alignment: 9
+      pivot: {x: 0.55804825, y: 0.49573296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.74411, y: 34.788025}
+        - {x: -34.74411, y: 25.788025}
+        - {x: -35.74411, y: 19.788025}
+        - {x: -35.74411, y: -11.211975}
+        - {x: -9.74411, y: -33.211975}
+        - {x: 20.25589, y: -33.211975}
+        - {x: 29.25589, y: -12.211975}
+        - {x: 29.25589, y: 13.788025}
+        - {x: -2.74411, y: 34.788025}
+    - name: SetPirate_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 256
+        width: 287
+        height: 163
+      alignment: 9
+      pivot: {x: 0.4734421, y: 0.22490744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.68894, y: 25.420044}
+        - {x: -56.688942, y: 12.420044}
+        - {x: -6.688942, y: -18.579956}
+        - {x: 27.311058, y: -18.579956}
+        - {x: 35.311058, y: -15.579956}
+        - {x: 76.31106, y: 54.420044}
+        - {x: 76.31106, y: 63.420044}
+        - {x: 55.311058, y: 63.420044}
+        - {x: -67.68894, y: 36.420044}
+    - name: SetPirate_10
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 311
+        width: 183
+        height: 108
+      alignment: 9
+      pivot: {x: 0.52110183, y: 0.4970203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.430817, y: 28.160904}
+        - {x: -46.430817, y: 28.160904}
+        - {x: -47.430817, y: 26.160904}
+        - {x: -47.430817, y: -4.839096}
+        - {x: -46.430817, y: -7.839096}
+        - {x: -44.430817, y: -10.839096}
+        - {x: -32.430817, y: -24.839096}
+        - {x: -25.430817, y: -26.839096}
+        - {x: 23.569183, y: -26.839096}
+        - {x: 44.569183, y: -11.839096}
+        - {x: 44.569183, y: 23.160904}
+        - {x: 42.569183, y: 25.160904}
+    - name: SetPirate_11
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 284
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 29.5}
+        - {x: -23, y: 24.5}
+        - {x: -23, y: -29.5}
+        - {x: 24, y: -29.5}
+        - {x: 24, y: 25.5}
+        - {x: 14, y: 29.5}
+    - name: SetPirate_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 284
+        width: 79
+        height: 106
+      alignment: 9
+      pivot: {x: 0.45603228, y: 0.52730775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.263275, y: 25.052689}
+        - {x: -18.263275, y: 21.052689}
+        - {x: -18.263275, y: -27.947311}
+        - {x: 12.736725, y: -27.947311}
+        - {x: 21.736725, y: -20.947311}
+        - {x: 21.736725, y: 2.0526886}
+        - {x: 8.736725, y: 25.052689}
+    - name: SetPirate_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 6
+        width: 191
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 45.5}
+        - {x: 21, y: 45.5}
+        - {x: 17, y: 38.5}
+        - {x: 17, y: 34.5}
+        - {x: 1, y: 45.5}
+        - {x: -18, y: 45.5}
+        - {x: -26, y: 42.5}
+        - {x: -39, y: 25.5}
+        - {x: -48, y: -17.5}
+        - {x: -48, y: -45.5}
+        - {x: 35, y: -45.5}
+        - {x: 48, y: -43.5}
+        - {x: 48, y: -13.5}
+        - {x: 41, y: 38.5}
+    - name: SetPirate_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 54
+        width: 185
+        height: 129
+      alignment: 9
+      pivot: {x: 0.48298687, y: 0.6494202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.926285, y: 22.862396}
+        - {x: -44.926285, y: -42.137604}
+        - {x: 5.073715, y: -42.137604}
+        - {x: 48.073715, y: -13.137604}
+        - {x: 48.073715, y: 11.862396}
+        - {x: 43.073715, y: 22.862396}
+    - name: SetPirate_15
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 143
+        width: 113
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4170649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 23.193}
+        - {x: -28.5, y: -15.806999}
+        - {x: 28.5, y: -15.806999}
+        - {x: 28.5, y: 13.193001}
+        - {x: 19.5, y: 23.193}
+    - name: SetPirate_16
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 147
+        width: 113
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4950745, y: 0.37880605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.22171, y: 26.529549}
+        - {x: -28.22171, y: -15.470451}
+        - {x: 23.77829, y: -15.470451}
+        - {x: 27.77829, y: -14.470451}
+        - {x: 28.77829, y: -12.470451}
+        - {x: 28.77829, y: 23.529549}
+        - {x: 19.77829, y: 26.529549}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

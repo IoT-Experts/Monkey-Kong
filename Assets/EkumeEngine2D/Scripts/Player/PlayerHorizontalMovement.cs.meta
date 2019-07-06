@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f4f1b7a98c3bb4449a1716387449e75a
+timeCreated: 1485462428
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - inputControlsManager: {fileID: 11400000, guid: 04673422e89b7774ea991360850e0b35,
+      type: 2}
+  executionOrder: 100
+  icon: {fileID: 2800000, guid: 0d8ddc2092101e046a48f331111630d5, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

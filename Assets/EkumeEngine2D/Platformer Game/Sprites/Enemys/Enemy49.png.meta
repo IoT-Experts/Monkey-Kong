@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: f87961bf163ccf04ab53f39e892e1217
+timeCreated: 1478128439
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy22_0
+    21300002: Enemy22_1
+    21300004: Enemy22_2
+    21300006: Enemy22_3
+    21300008: Enemy22_4
+    21300010: Enemy22_5
+    21300012: Enemy22_6
+    21300014: Enemy22_7
+    21300016: Enemy22_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: -1
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemy22_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 406
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 115.5, y: 40}
+        - {x: 106.5, y: 66}
+        - {x: 87.5, y: 98}
+        - {x: 77.5, y: 112}
+        - {x: 36.5, y: 141}
+        - {x: -19.5, y: 141}
+        - {x: -39.5, y: 132}
+        - {x: -51.5, y: 125}
+        - {x: -94.5, y: 78}
+        - {x: -115.5, y: 23}
+        - {x: -115.5, y: -68}
+        - {x: -102.5, y: -96}
+        - {x: -93.5, y: -109}
+        - {x: -64.5, y: -132}
+        - {x: -36.5, y: -141}
+        - {x: 30.5, y: -141}
+        - {x: 75.5, y: -121}
+        - {x: 107.5, y: -84}
+        - {x: 115.5, y: -66}
+    - name: Enemy22_1
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 273
+        width: 135
+        height: 216
+      alignment: 9
+      pivot: {x: 0.4749747, y: 0.9118767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.53772, y: -1.3674011}
+        - {x: 19.53772, y: 11.632599}
+        - {x: -27.46228, y: 11.632599}
+        - {x: -36.46228, y: 9.632599}
+        - {x: -36.46228, y: -97.3674}
+        - {x: -24.46228, y: -111.3674}
+        - {x: -20.46228, y: -112.3674}
+        - {x: 21.53772, y: -112.3674}
+        - {x: 35.53772, y: -104.3674}
+        - {x: 40.53772, y: -79.3674}
+        - {x: 40.53772, y: -10.367401}
+    - name: Enemy22_2
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 273
+        width: 135
+        height: 216
+      alignment: 9
+      pivot: {x: 0.49176612, y: 0.9117108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.99704, y: 11.652985}
+        - {x: -36.99704, y: 5.6529846}
+        - {x: -37.99704, y: -0.34701538}
+        - {x: -37.99704, y: -96.347015}
+        - {x: -20.99704, y: -112.347015}
+        - {x: 28.00296, y: -112.347015}
+        - {x: 40.00296, y: -85.347015}
+        - {x: 40.00296, y: 2.6529846}
+        - {x: 32.00296, y: 11.652985}
+    - name: Enemy22_3
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 181
+        width: 163
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7832634, y: 0.4738113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.74695, y: 27.187752}
+        - {x: -70.74695, y: 4.187752}
+        - {x: -72.74695, y: -1.8122482}
+        - {x: -72.74695, y: -21.812248}
+        - {x: -71.74695, y: -22.812248}
+        - {x: 16.253052, y: -22.812248}
+        - {x: 20.253052, y: -13.812248}
+        - {x: 20.253052, y: 26.187752}
+        - {x: 17.253052, y: 27.187752}
+    - name: Enemy22_4
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 167
+        width: 163
+        height: 86
+      alignment: 9
+      pivot: {x: 0.8205282, y: 0.47414878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.04315, y: 27.211578}
+        - {x: -76.04315, y: 1.2115784}
+        - {x: -76.04315, y: -22.788422}
+        - {x: 16.956848, y: -22.788422}
+        - {x: 16.956848, y: 27.211578}
+    - name: Enemy22_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 9
+        width: 122
+        height: 142
+      alignment: 9
+      pivot: {x: 0.31815675, y: 0.8592567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.088989, y: 11.612755}
+        - {x: -13.911011, y: 11.612755}
+        - {x: -17.91101, y: 2.6127548}
+        - {x: -21.91101, y: -33.387245}
+        - {x: -21.91101, y: -69.387245}
+        - {x: 48.08899, y: -69.387245}
+        - {x: 48.08899, y: -41.387245}
+        - {x: 24.08899, y: 5.612755}
+    - name: Enemy22_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 5
+        width: 101
+        height: 43
+      alignment: 9
+      pivot: {x: 0.40109283, y: 0.8318807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.489624, y: 7.22913}
+        - {x: -15.510376, y: 5.22913}
+        - {x: -40.510376, y: -7.77087}
+        - {x: -40.510376, y: -35.77087}
+        - {x: 33.489624, y: -35.77087}
+        - {x: 60.489624, y: -31.77087}
+        - {x: 60.489624, y: -4.77087}
+        - {x: 51.489624, y: 7.22913}
+    - name: Enemy22_7
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 4
+        width: 122
+        height: 142
+      alignment: 9
+      pivot: {x: 0.29043278, y: 0.8679302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.967834, y: 11.569763}
+        - {x: -15.967834, y: 7.569763}
+        - {x: -19.967834, y: -39.430237}
+        - {x: -19.967834, y: -68.43024}
+        - {x: -16.967834, y: -70.43024}
+        - {x: 49.032166, y: -70.43024}
+        - {x: 50.032166, y: -68.43024}
+        - {x: 50.032166, y: -42.430237}
+        - {x: 24.032166, y: 11.569763}
+    - name: Enemy22_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 7
+        width: 101
+        height: 43
+      alignment: 9
+      pivot: {x: 0.3671712, y: 0.82042444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.9157104, y: 7.7217484}
+        - {x: -12.08429, y: 5.7217484}
+        - {x: -37.08429, y: -7.2782516}
+        - {x: -37.08429, y: -35.27825}
+        - {x: 36.91571, y: -35.27825}
+        - {x: 63.91571, y: -31.278252}
+        - {x: 63.91571, y: -4.2782516}
+        - {x: 54.91571, y: 7.7217484}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: cbc76875577e3654283feb5909fd147a
+timeCreated: 1478037900
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: obrtanje2_0
+    21300002: obrtanje2_1
+    21300004: obrtanje2_2
+    21300006: obrtanje2_3
+    21300008: obrtanje2_4
+    21300010: obrtanje2_5
+    21300012: obrtanje2_6
+    21300014: obrtanje2_7
+    21300016: obrtanje2_8
+    21300018: obrtanje2_9
+    21300020: obrtanje2_10
+    21300022: obrtanje2_11
+    21300024: obrtanje2_12
+    21300026: obrtanje2_13
+    21300028: obrtanje2_14
+    21300030: obrtanje2_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: -1
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: obrtanje2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -27}
+        - {x: -18, y: -32}
+        - {x: 10, y: -32}
+        - {x: 10, y: 32}
+    - name: obrtanje2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -19}
+        - {x: -25, y: -32}
+        - {x: 11, y: -32}
+        - {x: 11, y: 28}
+        - {x: 10, y: 32}
+        - {x: -20, y: 32}
+        - {x: -32, y: 23}
+    - name: obrtanje2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -20}
+        - {x: -17, y: -29}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 32}
+        - {x: -17, y: 32}
+        - {x: -30, y: 23}
+    - name: obrtanje2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 32}
+        - {x: -26, y: -32}
+        - {x: 9, y: -32}
+        - {x: 9, y: 32}
+    - name: obrtanje2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 32}
+        - {x: -22, y: 31}
+        - {x: -22, y: -32}
+        - {x: 11, y: -32}
+        - {x: 11, y: 32}
+    - name: obrtanje2_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -15, y: 22}
+        - {x: -18, y: 16}
+        - {x: -18, y: -15}
+        - {x: -14, y: -26}
+        - {x: -6, y: -32}
+        - {x: 11, y: -32}
+        - {x: 11, y: 32}
+    - name: obrtanje2_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -17, y: -17}
+        - {x: -16, y: -26}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 11, y: 32}
+        - {x: -10, y: 32}
+        - {x: -16, y: 23}
+    - name: obrtanje2_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 32}
+        - {x: -13, y: 32}
+        - {x: -19, y: 19}
+        - {x: -19, y: -26}
+        - {x: -13, y: -31}
+        - {x: -11, y: -32}
+        - {x: 12, y: -32}
+        - {x: 20, y: -12}
+        - {x: 20, y: 16}
+        - {x: 13, y: 29}
+    - name: obrtanje2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -12}
+        - {x: -8, y: -31}
+        - {x: -8, y: -32}
+        - {x: 9, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 17}
+        - {x: 16, y: 27}
+        - {x: 6, y: 32}
+        - {x: -7, y: 32}
+        - {x: -9, y: 28}
+    - name: obrtanje2_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 32}
+        - {x: -3, y: 32}
+        - {x: -6, y: 30}
+        - {x: -8, y: 23}
+        - {x: -8, y: -32}
+        - {x: 12, y: -32}
+        - {x: 18, y: -28}
+        - {x: 19, y: -18}
+        - {x: 19, y: 19}
+    - name: obrtanje2_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -7, y: 31}
+        - {x: -7, y: -32}
+        - {x: 14, y: -32}
+        - {x: 23, y: -25}
+        - {x: 23, y: 20}
+        - {x: 17, y: 32}
+    - name: obrtanje2_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -5, y: -32}
+        - {x: 21, y: -32}
+        - {x: 28, y: -28}
+        - {x: 28, y: 24}
+        - {x: 26, y: 32}
+    - name: obrtanje2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 32}
+        - {x: -3, y: 32}
+        - {x: -7, y: 30}
+        - {x: -7, y: -27}
+        - {x: 2, y: -32}
+        - {x: 11, y: -32}
+        - {x: 19, y: -27}
+        - {x: 27, y: -17}
+        - {x: 27, y: 19}
+    - name: obrtanje2_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -6, y: -31}
+        - {x: 22, y: -31}
+        - {x: 31, y: -21}
+        - {x: 31, y: 24}
+        - {x: 21, y: 32}
+    - name: obrtanje2_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: -32}
+        - {x: 20, y: -32}
+        - {x: 28, y: -28}
+        - {x: 32, y: -16}
+        - {x: 32, y: 27}
+        - {x: 25, y: 32}
+    - name: obrtanje2_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -8, y: -30}
+        - {x: -7, y: -32}
+        - {x: 25, y: -32}
+        - {x: 32, y: -27}
+        - {x: 32, y: 26}
+        - {x: 25, y: 32}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

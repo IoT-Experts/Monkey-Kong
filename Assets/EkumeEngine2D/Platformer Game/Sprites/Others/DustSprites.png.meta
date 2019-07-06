@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 752ea34af95632f41b82c19a384640e4
+timeCreated: 1476325665
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DustSprites_0
+    21300002: DustSprites_1
+    21300004: DustSprites_2
+    21300006: DustSprites_3
+    21300008: DustSprites_4
+    21300010: DustSprites_5
+    21300012: DustSprites_6
+    21300014: DustSprites_7
+    21300016: DustSprites_8
+    21300018: DustSprites_9
+    21300020: DustSprites_10
+    21300022: DustSprites_11
+    21300024: DustSprites_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: -1
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DustSprites_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 259
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.6875, y: 23.7975}
+        - {x: -29.6875, y: 17.7975}
+        - {x: -29.6875, y: -18.2025}
+        - {x: -24.6875, y: -22.2025}
+        - {x: 29.3125, y: -22.2025}
+        - {x: 30.3125, y: -21.2025}
+        - {x: 30.3125, y: 18.7975}
+        - {x: 21.3125, y: 23.7975}
+    - name: DustSprites_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 251
+        width: 119
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.994995, y: 36.47751}
+        - {x: -50.994995, y: -6.5224915}
+        - {x: -42.994995, y: -30.522491}
+        - {x: -26.994995, y: -34.52249}
+        - {x: 19.005005, y: -34.52249}
+        - {x: 38.005005, y: -32.52249}
+        - {x: 51.005005, y: -22.522491}
+        - {x: 51.005005, y: 29.477509}
+        - {x: 32.005005, y: 36.47751}
+    - name: DustSprites_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 221
+        width: 159
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.79999, y: 74.90251}
+        - {x: -67.79999, y: -74.09749}
+        - {x: 69.20001, y: -74.09749}
+        - {x: 69.20001, y: 1.9025116}
+        - {x: 36.200012, y: 74.90251}
+    - name: DustSprites_3
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 191
+        width: 194
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.05252, y: 87.3275}
+        - {x: -82.94748, y: 87.3275}
+        - {x: -82.94748, y: -36.6725}
+        - {x: -76.94748, y: -85.6725}
+        - {x: 41.05252, y: -85.6725}
+        - {x: 83.05252, y: -41.6725}
+        - {x: 83.05252, y: -12.672501}
+        - {x: 43.05252, y: 81.3275}
+    - name: DustSprites_4
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 188
+        width: 239
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.807495, y: 83.270004}
+        - {x: -82.807495, y: -20.729996}
+        - {x: -54.807495, y: -82.729996}
+        - {x: 53.192505, y: -82.729996}
+        - {x: 102.192505, y: -56.729996}
+        - {x: 102.192505, y: -17.729996}
+        - {x: 34.192505, y: 83.270004}
+    - name: DustSprites_5
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 177
+        width: 230
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.670044, y: 79.3925}
+        - {x: -73.329956, y: 79.3925}
+        - {x: -73.329956, y: -33.6075}
+        - {x: -39.329956, y: -77.6075}
+        - {x: 42.670044, y: -77.6075}
+        - {x: 98.670044, y: -63.6075}
+        - {x: 98.670044, y: -5.607498}
+        - {x: 81.670044, y: 0.39250183}
+    - name: DustSprites_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 193
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.5, y: -36.817497}
+        - {x: 82.5, y: -31.817497}
+        - {x: 82.5, y: 25.182503}
+        - {x: 63.5, y: 70.1825}
+        - {x: -69.5, y: 70.1825}
+        - {x: -69.5, y: -53.817497}
+        - {x: -41.5, y: -69.8175}
+        - {x: 57.5, y: -69.8175}
+        - {x: 68.5, y: -59.817497}
+        - {x: 71.5, y: -42.817497}
+        - {x: 74.5, y: -34.817497}
+    - name: DustSprites_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 39
+        width: 131
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.899994, y: 71.2475}
+        - {x: -31.899994, y: 70.2475}
+        - {x: -55.899994, y: 55.247498}
+        - {x: -55.899994, y: -38.752502}
+        - {x: -12.899994, y: -70.7525}
+        - {x: 9.100006, y: -70.7525}
+        - {x: 41.100006, y: -63.752502}
+        - {x: 55.100006, y: -37.752502}
+        - {x: 55.100006, y: 25.247498}
+        - {x: 9.100006, y: 71.2475}
+    - name: DustSprites_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 28
+        width: 115
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.33499, y: -48.629997}
+        - {x: -30.334991, y: -68.63}
+        - {x: 49.66501, y: -68.63}
+        - {x: 49.66501, y: 33.370003}
+        - {x: 36.66501, y: 70.37}
+        - {x: -45.33499, y: 70.37}
+        - {x: -49.33499, y: 45.370003}
+    - name: DustSprites_9
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 14
+        width: 112
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.172485, y: -52.565002}
+        - {x: 48.172485, y: 70.435}
+        - {x: -45.827515, y: 70.435}
+        - {x: -47.827515, y: 56.434998}
+        - {x: -47.827515, y: -35.565002}
+        - {x: -24.827515, y: -68.565}
+        - {x: 3.1724854, y: -68.565}
+        - {x: 6.1724854, y: -67.565}
+        - {x: 4.1724854, y: -53.565002}
+        - {x: 0.17248535, y: -48.565002}
+        - {x: 13.172485, y: -58.565002}
+    - name: DustSprites_10
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 6
+        width: 98
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.392517, y: -58.885002}
+        - {x: 32.392517, y: -58.885002}
+        - {x: 42.392517, y: -16.885002}
+        - {x: 42.392517, y: 34.114998}
+        - {x: 3.392517, y: 67.115}
+        - {x: -28.607483, y: 67.115}
+        - {x: -37.607483, y: 61.114998}
+        - {x: -41.607483, y: 39.114998}
+        - {x: -41.607483, y: -30.885002}
+        - {x: -19.607483, y: -66.885}
+        - {x: -2.607483, y: -66.885}
+        - {x: 1.3925171, y: -63.885002}
+        - {x: 6.392517, y: -57.885002}
+        - {x: 5.392517, y: -50.885002}
+    - name: DustSprites_11
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 5
+        width: 91
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.2350464, y: 58.7625}
+        - {x: -38.764954, y: 58.7625}
+        - {x: -38.764954, y: -58.2375}
+        - {x: 7.2350464, y: -58.2375}
+        - {x: 35.235046, y: -43.2375}
+        - {x: 39.235046, y: -35.2375}
+        - {x: 39.235046, y: 42.7625}
+      - - {x: 20.235046, y: -40.2375}
+        - {x: 17.235046, y: -47.2375}
+        - {x: 17.235046, y: -53.2375}
+        - {x: 19.235046, y: -56.2375}
+        - {x: 27.235046, y: -56.2375}
+        - {x: 32.235046, y: -51.2375}
+        - {x: 32.235046, y: -45.2375}
+        - {x: 30.235046, y: -40.2375}
+    - name: DustSprites_12
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 5
+        width: 79
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.652466, y: -44.2375}
+        - {x: -11.652466, y: -46.2375}
+        - {x: -11.652466, y: -54.2375}
+        - {x: 1.3475342, y: -54.2375}
+        - {x: 1.3475342, y: -47.2375}
+        - {x: -2.6524658, y: -44.2375}
+      - - {x: -33.652466, y: 54.7625}
+        - {x: -33.652466, y: -44.2375}
+        - {x: -26.652466, y: -47.2375}
+        - {x: 10.347534, y: -47.2375}
+        - {x: 35.347534, y: -28.2375}
+        - {x: 35.347534, y: 28.7625}
+        - {x: 9.347534, y: 54.7625}
+      - - {x: 18.347534, y: -22.2375}
+        - {x: 13.347534, y: -25.2375}
+        - {x: 12.347534, y: -28.2375}
+        - {x: 12.347534, y: -32.2375}
+        - {x: 17.347534, y: -37.2375}
+        - {x: 25.347534, y: -37.2375}
+        - {x: 27.347534, y: -36.2375}
+        - {x: 27.347534, y: -27.2375}
+        - {x: 24.347534, y: -22.2375}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

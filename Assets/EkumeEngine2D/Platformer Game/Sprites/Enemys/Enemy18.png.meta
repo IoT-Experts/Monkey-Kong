@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: fd65af24eb1bb98489b6f3614153c685
+timeCreated: 1473911315
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy18_0
+    21300002: Enemy18_1
+    21300004: Enemy18_2
+    21300006: Enemy18_3
+    21300008: Enemy18_4
+    21300010: Enemy18_5
+    21300012: Enemy18_6
+    21300014: Enemy18_7
+    21300016: Enemy18_8
+    21300018: Enemy18_9
+    21300020: Enemy18_10
+    21300022: Enemy18_11
+    21300024: Enemy18_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: -1
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemy18_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 498
+        height: 635
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.5, y: 117.27142}
+        - {x: 7.5, y: 117.27142}
+        - {x: -27.5, y: 101.27142}
+        - {x: -83.5, y: 60.271423}
+        - {x: -91.5, y: 26.271423}
+        - {x: -91.5, y: -44.728577}
+        - {x: -82.5, y: -58.728577}
+        - {x: -22.5, y: -115.72858}
+        - {x: 47.5, y: -115.72858}
+        - {x: 71.5, y: -112.72858}
+        - {x: 86.5, y: -96.72858}
+        - {x: 91.5, y: -47.728577}
+        - {x: 91.5, y: 87.27142}
+    - name: Enemy18_1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 796
+        width: 219
+        height: 497
+      alignment: 9
+      pivot: {x: 0.8768539, y: 0.9679825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.46579, y: 6.0480957}
+        - {x: -14.53421, y: 6.0480957}
+        - {x: -70.53421, y: -131.9519}
+        - {x: -70.53421, y: -175.9519}
+        - {x: -36.53421, y: -175.9519}
+        - {x: -7.53421, y: -165.9519}
+        - {x: 4.46579, y: -86.951904}
+        - {x: 10.46579, y: -27.951904}
+        - {x: 10.46579, y: 5.0480957}
+    - name: Enemy18_2
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 765
+        width: 135
+        height: 521
+      alignment: 9
+      pivot: {x: 0.5972584, y: 0.96442574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.558228, y: 8.281067}
+        - {x: -9.441772, y: 8.281067}
+        - {x: -22.441772, y: -68.71893}
+        - {x: -29.441772, y: -115.71893}
+        - {x: -29.441772, y: -178.71893}
+        - {x: -23.441772, y: -183.71893}
+        - {x: 3.5582275, y: -183.71893}
+        - {x: 13.558228, y: -177.71893}
+        - {x: 20.558228, y: -153.71893}
+        - {x: 20.558228, y: -59.718933}
+        - {x: 17.558228, y: 4.281067}
+    - name: Enemy18_3
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 777
+        width: 173
+        height: 516
+      alignment: 9
+      pivot: {x: 0.09883744, y: 0.96165574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.4990234, y: 7.5415955}
+        - {x: -6.4990234, y: -180.4584}
+        - {x: -1.4990234, y: -181.4584}
+        - {x: 52.500977, y: -181.4584}
+        - {x: 57.500977, y: -179.4584}
+        - {x: 57.500977, y: -104.458405}
+        - {x: 25.500977, y: 7.5415955}
+    - name: Enemy18_4
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 833
+        width: 291
+        height: 469
+      alignment: 9
+      pivot: {x: 0.07458244, y: 0.95192873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.045868, y: 9.625183}
+        - {x: -8.045868, y: -18.374817}
+        - {x: 44.954132, y: -163.37482}
+        - {x: 99.95413, y: -163.37482}
+        - {x: 99.95413, y: -98.37482}
+        - {x: 24.954132, y: 9.625183}
+    - name: Enemy18_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 656
+        width: 103
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.691429, y: 19.317139}
+        - {x: -35.69143, y: 3.3171387}
+        - {x: -37.69143, y: -0.6828613}
+        - {x: -37.69143, y: -17.682861}
+        - {x: 23.30857, y: -17.682861}
+        - {x: 38.30857, y: -8.682861}
+        - {x: 38.30857, y: 19.317139}
+    - name: Enemy18_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 656
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.931427, y: 19.817139}
+        - {x: -23.931427, y: 19.817139}
+        - {x: -26.931427, y: 14.817139}
+        - {x: -26.931427, y: -9.182861}
+        - {x: -18.931427, y: -16.182861}
+        - {x: 9.068573, y: -18.182861}
+        - {x: 27.068573, y: -18.182861}
+        - {x: 27.068573, y: -2.1828613}
+        - {x: 16.068573, y: 10.817139}
+    - name: Enemy18_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 263
+        width: 268
+        height: 481
+      alignment: 9
+      pivot: {x: 0.91447586, y: 0.9638263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.306244, y: 7.091858}
+        - {x: -89.306244, y: -81.90814}
+        - {x: -89.306244, y: -169.90814}
+        - {x: -54.306244, y: -169.90814}
+        - {x: -31.306244, y: -156.90814}
+        - {x: -14.306244, y: -104.90814}
+        - {x: 9.693756, y: -16.908142}
+        - {x: 9.693756, y: 7.091858}
+    - name: Enemy18_8
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 206
+        width: 161
+        height: 516
+      alignment: 9
+      pivot: {x: 0.82354057, y: 0.9699951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.347229, y: 6.645035}
+        - {x: -48.34723, y: -82.354965}
+        - {x: -48.34723, y: -183.35497}
+        - {x: -14.347229, y: -183.35497}
+        - {x: -1.347229, y: -178.35497}
+        - {x: 11.652771, y: -141.35497}
+        - {x: 11.652771, y: 6.645035}
+    - name: Enemy18_9
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 206
+        width: 132
+        height: 522
+      alignment: 9
+      pivot: {x: 0.1496938, y: 0.97164965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.659363, y: 6.2978973}
+        - {x: -7.340637, y: 6.2978973}
+        - {x: -7.340637, y: -182.7021}
+        - {x: 0.6593628, y: -185.7021}
+        - {x: 42.659363, y: -185.7021}
+        - {x: 42.659363, y: -23.702103}
+        - {x: 15.659363, y: 5.2978973}
+    - name: Enemy18_10
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 243
+        width: 254
+        height: 486
+      alignment: 9
+      pivot: {x: 0.06488182, y: 0.9697548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.7070007, y: 6.875702}
+        - {x: -5.7070007, y: -18.124298}
+        - {x: 35.293, y: -163.1243}
+        - {x: 47.293, y: -172.1243}
+        - {x: 82.293, y: -172.1243}
+        - {x: 88.293, y: -169.1243}
+        - {x: 88.293, y: -112.1243}
+        - {x: 68.293, y: -65.1243}
+        - {x: 14.292999, y: 6.875702}
+    - name: Enemy18_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 466
+        width: 110
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.908569, y: 31.422852}
+        - {x: -8.091431, y: 31.422852}
+        - {x: -20.09143, y: 26.422852}
+        - {x: -20.09143, y: -24.577148}
+        - {x: -10.091431, y: -30.577148}
+        - {x: 18.90857, y: -30.577148}
+        - {x: 21.90857, y: -24.577148}
+        - {x: 21.90857, y: 15.422852}
+        - {x: 18.90857, y: 25.422852}
+    - name: Enemy18_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 465
+        width: 88
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.8399963, y: 31.557144}
+        - {x: -9.160004, y: 31.557144}
+        - {x: -15.160004, y: 26.557144}
+        - {x: -16.160004, y: 18.557144}
+        - {x: -16.160004, y: -20.442856}
+        - {x: -11.160004, y: -26.442856}
+        - {x: -7.1600037, y: -31.442856}
+        - {x: 15.839996, y: -31.442856}
+        - {x: 17.839996, y: -30.442856}
+        - {x: 17.839996, y: 21.557144}
+        - {x: 14.839996, y: 28.557144}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

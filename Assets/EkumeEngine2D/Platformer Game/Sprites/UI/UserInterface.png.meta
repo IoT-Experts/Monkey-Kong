@@ -1,0 +1,1054 @@
+fileFormatVersion: 2
+guid: 7da61775dd84e1648a554165f200d142
+timeCreated: 1478222865
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UserInterface_0
+    21300002: UserInterface_1
+    21300004: UserInterface_2
+    21300006: UserInterface_3
+    21300008: UserInterface_4
+    21300010: UserInterface_5
+    21300012: UserInterface_6
+    21300014: UserInterface_7
+    21300016: UserInterface_8
+    21300018: Banana_Coin
+    21300020: UserInterface_10
+    21300022: UserInterface_11
+    21300024: UserInterface_12
+    21300026: UserInterface_13
+    21300028: Banana
+    21300030: UserInterface_15
+    21300032: UserInterface_16
+    21300034: UserInterface_17
+    21300036: UserInterface_18
+    21300038: UserInterface_19
+    21300040: UserInterface_20
+    21300042: UserInterface_21
+    21300044: UserInterface_22
+    21300046: UserInterface_23
+    21300048: UserInterface_24
+    21300050: UserInterface_25
+    21300052: UserInterface_26
+    21300054: UserInterface_27
+    21300056: UserInterface_28
+    21300058: UserInterface_29
+    21300060: UserInterface_30
+    21300062: UserInterface_31
+    21300064: UserInterface_32
+    21300066: UserInterface_33
+    21300068: UserInterface_34
+    21300070: UserInterface_35
+    21300072: UserInterface_36
+    21300074: UserInterface_37
+    21300076: UserInterface_38
+    21300078: UserInterface_39
+    21300080: UserInterface_40
+    21300082: UserInterface_41
+    21300084: UserInterface_42
+    21300086: UserInterface_43
+    21300088: UserInterface_44
+    21300090: UserInterface_45
+    21300092: UserInterface_46
+    21300094: UserInterface_47
+    21300096: UserInterface_48
+    21300098: UserInterface_49
+    21300100: UserInterface_50
+    21300102: UserInterface_51
+    21300104: UserInterface_52
+    21300106: UserInterface_53
+    21300108: UserInterface_54
+    21300110: UserInterface_55
+    21300112: UserInterface_56
+    21300114: UserInterface_57
+    21300116: UserInterface_58
+    21300118: UserInterface_59
+    21300120: UserInterface_60
+    21300122: UserInterface_61
+    21300124: UserInterface_62
+    21300126: UserInterface_63
+    21300128: UserInterface_64
+    21300130: UserInterface_65
+    21300132: UserInterface_66
+    21300134: UserInterface_67
+    21300136: UserInterface_68
+    21300138: UserInterface_69
+    21300140: UserInterface_70
+    21300142: UserInterface_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UserInterface_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1501
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1475
+        width: 220
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1501
+        width: 150
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_3
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1453
+        width: 121
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_4
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1518
+        width: 110
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_5
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1454
+        width: 108
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_6
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1453
+        width: 108
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_7
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1173
+        width: 297
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_8
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 945
+        width: 688
+        height: 605
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Banana_Coin
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1437
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1438
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1360
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1346
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_13
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1453
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Banana
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1367
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1366
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1395
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_18
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1392
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_19
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1399
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_20
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1376
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_21
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1370
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 20, z: 13, w: 22}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_22
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1366
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_23
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1367
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_24
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1367
+        width: 163
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_25
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1367
+        width: 187
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1271
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1252
+        width: 453
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_28
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1262
+        width: 465
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1182
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1175
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1180
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1182
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_33
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1173
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_34
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1173
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_35
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1173
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_36
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1182
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_37
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1168
+        width: 134
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_38
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1213
+        width: 147
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_39
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1195
+        width: 169
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1084
+        width: 353
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_41
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1003
+        width: 104
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_42
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 690
+        width: 547
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 272, y: 233, z: 272, w: 233}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 991
+        width: 361
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 20, z: 27, w: 25}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 819
+        width: 348
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 167, y: 79, z: 167, w: 76}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_45
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 859
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_46
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 507
+        width: 959
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_47
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 654
+        width: 94
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_48
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 548
+        width: 336
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_49
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 652
+        width: 158
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_50
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 718
+        width: 89
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 562
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_52
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 553
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 556
+        width: 296
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_54
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 572
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_55
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 548
+        width: 36
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 417
+        width: 825
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_57
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 0
+        width: 529
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_58
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 740
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_59
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 248
+        width: 214
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_60
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 298
+        width: 105
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_61
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 290
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_62
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 292
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_63
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 118
+        width: 214
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_64
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 216
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_65
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 218
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_66
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 217
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_67
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 171
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_68
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 16
+        width: 249
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 34, z: 35, w: 27}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_69
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 16
+        width: 249
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_70
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 16
+        width: 182
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UserInterface_9
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1395
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2f3ec8160d3420f47b5cf36debca7c06
+timeCreated: 1485462423
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - creatorOfPunctuationType: {fileID: 11400000, guid: 9fa6d85df19c8754db5d56a7bdce9f8d,
+      type: 2}
+  executionOrder: 100
+  icon: {fileID: 2800000, guid: 24f6e8f7c0f1e9247b0fc0c690b446e6, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

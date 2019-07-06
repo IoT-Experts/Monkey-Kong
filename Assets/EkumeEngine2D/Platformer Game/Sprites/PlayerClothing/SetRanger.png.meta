@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: da36ddba665c65746ba195f60a49d424
+timeCreated: 1472708988
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SetRanger_0
+    21300002: SetRanger_1
+    21300004: SetRanger_2
+    21300006: SetRanger_3
+    21300008: SetRanger_4
+    21300010: SetRanger_5
+    21300012: SetRanger_6
+    21300014: SetRanger_7
+    21300016: SetRanger_8
+    21300018: SetRanger_9
+    21300020: SetRanger_10
+    21300022: SetRanger_11
+    21300024: SetRanger_12
+    21300026: SetRanger_13
+    21300028: SetRanger_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SetRanger_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 604
+        width: 411
+        height: 420
+      alignment: 9
+      pivot: {x: 0.4994383, y: 0.35849842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.615433, y: 134.71533}
+        - {x: -20.384567, y: 134.71533}
+        - {x: -29.384567, y: 130.71533}
+        - {x: -60.384567, y: 101.71533}
+        - {x: -80.38457, y: 55.715332}
+        - {x: -102.38457, y: 23.715332}
+        - {x: -102.38457, y: -21.284668}
+        - {x: -99.38457, y: -33.284668}
+        - {x: -14.384567, y: -75.28467}
+        - {x: 73.61543, y: -75.28467}
+        - {x: 103.61543, y: -42.284668}
+        - {x: 103.61543, y: 63.715332}
+        - {x: 98.61543, y: 99.71533}
+    - name: SetRanger_1
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 853
+        width: 128
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 43.5}
+        - {x: -32, y: 37.5}
+        - {x: -32, y: -42.5}
+        - {x: 25, y: -42.5}
+        - {x: 27, y: -40.5}
+        - {x: 33, y: -27.5}
+        - {x: 33, y: 43.5}
+    - name: SetRanger_2
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 848
+        width: 163
+        height: 176
+      alignment: 9
+      pivot: {x: 0.6321647, y: 0.42179248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.771423, y: 50.882263}
+        - {x: -51.771423, y: 41.882263}
+        - {x: -51.771423, y: -11.117737}
+        - {x: -39.771423, y: -37.117737}
+        - {x: 21.228577, y: -37.117737}
+        - {x: 30.228577, y: -29.117737}
+        - {x: 30.228577, y: 15.882263}
+        - {x: 1.2285767, y: 50.882263}
+    - name: SetRanger_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 646
+        width: 149
+        height: 169
+      alignment: 9
+      pivot: {x: 0.47646338, y: 0.4769428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.253479, y: 44.448334}
+        - {x: -35.74652, y: -4.5516663}
+        - {x: -35.74652, y: -40.551666}
+        - {x: -4.746521, y: -40.551666}
+        - {x: 39.25348, y: -9.551666}
+        - {x: 39.25348, y: 44.448334}
+    - name: SetRanger_4
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 633
+        width: 80
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 45.5}
+        - {x: -20, y: 8.5}
+        - {x: -15, y: -35.5}
+        - {x: -7, y: -44.5}
+        - {x: 20, y: -44.5}
+        - {x: 20, y: -6.5}
+        - {x: 18, y: 4.5}
+        - {x: 6, y: 43.5}
+        - {x: -1, y: 45.5}
+    - name: SetRanger_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 325
+        width: 189
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 53.5}
+        - {x: -33, y: 37.5}
+        - {x: -47, y: -22.5}
+        - {x: -47, y: -50.5}
+        - {x: -39, y: -52.5}
+        - {x: 48, y: -52.5}
+        - {x: 48, y: 1.5}
+        - {x: 30, y: 53.5}
+    - name: SetRanger_6
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 440
+        width: 104
+        height: 165
+      alignment: 9
+      pivot: {x: 0.4973482, y: 0.5329719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.862106, y: 38.779816}
+        - {x: -24.862106, y: 24.779816}
+        - {x: -25.862106, y: 18.779816}
+        - {x: -25.862106, y: -44.220184}
+        - {x: 20.137894, y: -44.220184}
+        - {x: 24.137894, y: -38.220184}
+        - {x: 27.137894, y: -11.220184}
+        - {x: 27.137894, y: 38.779816}
+    - name: SetRanger_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 460
+        width: 139
+        height: 139
+      alignment: 9
+      pivot: {x: 0.41204438, y: 0.5109244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.887085, y: -6.759247}
+        - {x: -4.887085, y: -35.759247}
+        - {x: 28.112915, y: -35.759247}
+        - {x: 41.112915, y: -20.759247}
+        - {x: 41.112915, y: 0.24075317}
+        - {x: 10.112915, y: 34.240753}
+        - {x: -25.887085, y: 34.240753}
+        - {x: -28.887085, y: 28.240753}
+    - name: SetRanger_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 298
+        width: 94
+        height: 115
+      alignment: 9
+      pivot: {x: 0.44889605, y: 0.5023199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.901886, y: 28.866608}
+        - {x: -14.098114, y: 28.866608}
+        - {x: -21.098114, y: 25.866608}
+        - {x: -21.098114, y: -29.133392}
+        - {x: 25.901886, y: -29.133392}
+        - {x: 25.901886, y: 13.866608}
+        - {x: 23.901886, y: 24.866608}
+    - name: SetRanger_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 301
+        width: 87
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4842319, y: 0.40088916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.814087, y: 31.599762}
+        - {x: -20.814087, y: -22.400238}
+        - {x: 23.185913, y: -22.400238}
+        - {x: 23.185913, y: 25.599762}
+        - {x: 7.185913, y: 31.599762}
+    - name: SetRanger_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 213
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: -31}
+        - {x: 78.5, y: -31}
+        - {x: 106.5, y: -17}
+        - {x: 106.5, y: 31}
+        - {x: -106.5, y: 31}
+        - {x: -106.5, y: -10}
+    - name: SetRanger_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 125
+        width: 137
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4722974, y: 0.44557515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.60237, y: 29.30288}
+        - {x: -32.60237, y: -18.69712}
+        - {x: -31.602371, y: -22.69712}
+        - {x: 30.397629, y: -22.69712}
+        - {x: 36.39763, y: -19.69712}
+        - {x: 36.39763, y: 6.3028793}
+        - {x: 27.397629, y: 29.30288}
+    - name: SetRanger_12
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 49
+        width: 300
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 53}
+        - {x: -75, y: 38}
+        - {x: -75, y: 16}
+        - {x: -71, y: 13}
+        - {x: 8, y: -52}
+        - {x: 76, y: -52}
+        - {x: 76, y: -29}
+        - {x: 20, y: 52}
+        - {x: 16, y: 53}
+    - name: SetRanger_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 216
+        height: 203
+      alignment: 9
+      pivot: {x: 0.52233577, y: 0.2663928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.412262, y: 75.21113}
+        - {x: -56.412262, y: -26.78887}
+        - {x: 32.587738, y: -26.78887}
+        - {x: 51.587738, y: -5.78887}
+        - {x: 51.587738, y: 68.21113}
+        - {x: 31.587738, y: 75.21113}
+    - name: SetRanger_14
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 150
+        height: 101
+      alignment: 9
+      pivot: {x: 0.52258563, y: 0.37986392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.193924, y: 31.566872}
+        - {x: -39.193924, y: 26.566872}
+        - {x: -39.193924, y: -3.4331284}
+        - {x: -37.193924, y: -17.433128}
+        - {x: -35.193924, y: -19.433128}
+        - {x: 35.806076, y: -19.433128}
+        - {x: 35.806076, y: 16.566872}
+        - {x: 18.806076, y: 31.566872}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

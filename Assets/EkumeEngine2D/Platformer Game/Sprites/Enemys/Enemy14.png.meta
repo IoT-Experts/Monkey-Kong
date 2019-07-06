@@ -1,0 +1,96 @@
+fileFormatVersion: 2
+guid: 2753cc3c33177b74aa50d0226680ef81
+timeCreated: 1473880839
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy14_0
+    21300002: Enemy14_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: -1
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemy14_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 267
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: -63.5}
+        - {x: 41.5, y: -63.5}
+        - {x: 63.5, y: -49.5}
+        - {x: 63.5, y: 47.5}
+        - {x: 54.5, y: 63.5}
+        - {x: -55.5, y: 63.5}
+        - {x: -63.5, y: 57.5}
+    - name: Enemy14_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 267
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.09738, y: 63.5}
+        - {x: -63.09738, y: 50.5}
+        - {x: -63.09738, y: -46.5}
+        - {x: -44.09738, y: -63.5}
+        - {x: 59.90262, y: -63.5}
+        - {x: 64.90262, y: -42.5}
+        - {x: 64.90262, y: 54.5}
+        - {x: 54.90262, y: 63.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

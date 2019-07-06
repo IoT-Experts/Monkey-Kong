@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 0eb8f25c4c28abc449a711497e90829d
+timeCreated: 1472696047
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SetNinja_0
+    21300002: SetNinja_1
+    21300004: SetNinja_2
+    21300006: SetNinja_3
+    21300008: SetNinja_4
+    21300010: SetNinja_5
+    21300012: SetNinja_6
+    21300014: SetNinja_7
+    21300016: SetNinja_8
+    21300018: SetNinja_9
+    21300020: SetNinja_10
+    21300022: SetNinja_11
+    21300024: SetNinja_12
+    21300026: SetNinja_13
+    21300028: SetNinja_14
+    21300030: SetNinja_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SetNinja_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 893
+        width: 338
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.5, y: 33.5}
+        - {x: -84.5, y: 30.5}
+        - {x: -84.5, y: -13.5}
+        - {x: -79.5, y: -22.5}
+        - {x: 2.5, y: -32.5}
+        - {x: 58.5, y: -32.5}
+        - {x: 85.5, y: -20.5}
+        - {x: 85.5, y: 18.5}
+        - {x: 79.5, y: 33.5}
+    - name: SetNinja_1
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 806
+        width: 189
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 43.5}
+        - {x: -25, y: 43.5}
+        - {x: -39, y: 40.5}
+        - {x: -47, y: 8.5}
+        - {x: -47, y: -43.5}
+        - {x: 48, y: -43.5}
+        - {x: 48, y: -8.5}
+        - {x: 35, y: 38.5}
+    - name: SetNinja_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 603
+        width: 391
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.5, y: 72}
+        - {x: -97.5, y: -31}
+        - {x: -39.5, y: -71}
+        - {x: 75.5, y: -71}
+        - {x: 98.5, y: -58}
+        - {x: 98.5, y: 38}
+        - {x: 34.5, y: 72}
+    - name: SetNinja_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 665
+        width: 226
+        height: 106
+      alignment: 9
+      pivot: {x: 0.52158296, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.938873, y: 27.5}
+        - {x: -58.938873, y: -19.5}
+        - {x: -54.938873, y: -26.5}
+        - {x: 43.061127, y: -26.5}
+        - {x: 54.061127, y: -13.5}
+        - {x: 54.061127, y: 27.5}
+    - name: SetNinja_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 464
+        width: 165
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: -41, y: 6}
+        - {x: -41, y: -12}
+        - {x: -29, y: -22}
+        - {x: 32, y: -22}
+        - {x: 42, y: -19}
+        - {x: 42, y: 6}
+        - {x: 24, y: 22}
+    - name: SetNinja_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 532
+        width: 216
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5011122, y: 0.6306235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.120117, y: 19.272888}
+        - {x: -54.120117, y: 2.2728882}
+        - {x: -54.120117, y: -16.727112}
+        - {x: -45.120117, y: -18.727112}
+        - {x: -24.120117, y: -32.72711}
+        - {x: 41.879883, y: -32.72711}
+        - {x: 54.879883, y: -17.727112}
+        - {x: 54.879883, y: 19.272888}
+    - name: SetNinja_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 216
+        width: 140
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 40}
+        - {x: -35, y: -8}
+        - {x: -35, y: -40}
+        - {x: -4, y: -40}
+        - {x: 36, y: 16}
+        - {x: 36, y: 40}
+    - name: SetNinja_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 213
+        width: 76
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -41.5}
+        - {x: 20, y: -41.5}
+        - {x: 20, y: 9.5}
+        - {x: 15, y: 35.5}
+        - {x: 4, y: 42.5}
+        - {x: -19, y: 42.5}
+        - {x: -19, y: -35.5}
+    - name: SetNinja_8
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 359
+        width: 111
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 31}
+        - {x: -28, y: 16}
+        - {x: -28, y: -30}
+        - {x: 28, y: -30}
+        - {x: 28, y: 23}
+        - {x: 18, y: 31}
+    - name: SetNinja_9
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 349
+        width: 105
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 33.5}
+        - {x: -26.5, y: -32.5}
+        - {x: 15.5, y: -32.5}
+        - {x: 26.5, y: -22.5}
+        - {x: 26.5, y: 33.5}
+    - name: SetNinja_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 239
+        width: 129
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 15}
+        - {x: -32, y: -13}
+        - {x: -26, y: -19}
+        - {x: 26, y: -19}
+        - {x: 33, y: -15}
+        - {x: 33, y: 10}
+        - {x: 19, y: 15}
+    - name: SetNinja_11
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 246
+        width: 125
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 13.5}
+        - {x: -31.5, y: -13.5}
+        - {x: -30.5, y: -17.5}
+        - {x: 23.5, y: -17.5}
+        - {x: 31.5, y: -15.5}
+        - {x: 31.5, y: 13.5}
+    - name: SetNinja_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 99
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 35.5}
+        - {x: -25, y: -34.5}
+        - {x: 21, y: -34.5}
+        - {x: 25, y: -15.5}
+        - {x: 25, y: 35.5}
+    - name: SetNinja_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 45
+        width: 110
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 32.5}
+        - {x: -27.5, y: -2.5}
+        - {x: -2.5, y: -31.5}
+        - {x: 15.5, y: -31.5}
+        - {x: 27.5, y: -3.5}
+        - {x: 27.5, y: 7.5}
+        - {x: 7.5, y: 32.5}
+    - name: SetNinja_14
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2
+        width: 126
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 44}
+        - {x: -19.5, y: 42}
+        - {x: -31.5, y: -13}
+        - {x: -31.5, y: -42}
+        - {x: -30.5, y: -44}
+        - {x: 29.5, y: -44}
+        - {x: 32.5, y: -30}
+        - {x: 32.5, y: 44}
+    - name: SetNinja_15
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 32
+        width: 143
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 36.5}
+        - {x: -35.5, y: 33.5}
+        - {x: -35.5, y: -8.5}
+        - {x: -19.5, y: -36.5}
+        - {x: 32.5, y: -36.5}
+        - {x: 36.5, y: -25.5}
+        - {x: 36.5, y: 17.5}
+        - {x: -3.5, y: 36.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

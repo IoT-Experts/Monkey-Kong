@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: f4132ffe06c6d1543b040597b08e0c39
+timeCreated: 1473911339
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy17_0
+    21300002: Enemy17_1
+    21300004: Enemy17_2
+    21300006: Enemy17_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: -1
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemy17_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 327
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5262516, y: 0.049677614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 139.77567, y: 65.31436}
+        - {x: 125.775665, y: 128.31436}
+        - {x: 107.775665, y: 166.31436}
+        - {x: 94.775665, y: 180.31436}
+        - {x: 51.775665, y: 205.31436}
+        - {x: 35.775665, y: 209.31436}
+        - {x: -50.224335, y: 209.31436}
+        - {x: -88.224335, y: 190.31436}
+        - {x: -110.224335, y: 175.31436}
+        - {x: -129.22433, y: 158.31436}
+        - {x: -148.22433, y: 128.31436}
+        - {x: -155.22433, y: 113.31436}
+        - {x: -155.22433, y: 48.31436}
+        - {x: -153.22433, y: 40.31436}
+        - {x: -119.224335, y: 1.3143616}
+        - {x: -87.224335, y: -9.685638}
+        - {x: -66.224335, y: -10.685638}
+        - {x: 38.775665, y: -10.685638}
+        - {x: 95.775665, y: -0.6856384}
+        - {x: 129.77567, y: 17.314362}
+        - {x: 139.77567, y: 29.314362}
+    - name: Enemy17_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 467
+        width: 63
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.89621675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.439362, y: 5.678589}
+        - {x: -19.560638, y: 5.678589}
+        - {x: -28.560638, y: -7.321411}
+        - {x: -28.560638, y: -42.32141}
+        - {x: 29.439362, y: -42.32141}
+        - {x: 29.439362, y: 0.67858887}
+        - {x: 28.439362, y: 3.6785889}
+    - name: Enemy17_2
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 386
+        width: 65
+        height: 54
+      alignment: 9
+      pivot: {x: 0.45471755, y: 0.8597401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.41214, y: 7.3522034}
+        - {x: -26.41214, y: 3.3522034}
+        - {x: -26.41214, y: -41.647797}
+        - {x: 30.58786, y: -41.647797}
+        - {x: 32.58786, y: -40.647797}
+        - {x: 32.58786, y: 2.3522034}
+        - {x: 18.58786, y: 7.3522034}
+    - name: Enemy17_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 362
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 158.39983, y: 29.5}
+        - {x: 136.39983, y: 83.5}
+        - {x: 84.399826, y: 83.5}
+        - {x: 26.399826, y: 77.5}
+        - {x: -76.600174, y: 78.5}
+        - {x: -63.600174, y: -3.5}
+        - {x: -129.60017, y: -61.5}
+        - {x: -155.60017, y: -49.5}
+        - {x: -162.60017, y: -49.5}
+        - {x: -162.60017, y: -61.5}
+        - {x: -146.60017, y: -85.5}
+        - {x: -67.600174, y: -134.5}
+        - {x: -46.600174, y: -143.5}
+        - {x: 57.399826, y: -143.5}
+        - {x: 83.399826, y: -141.5}
+        - {x: 125.399826, y: -124.5}
+        - {x: 164.39983, y: -78.5}
+        - {x: 164.39983, y: -9.5}
+      - - {x: 105.399826, y: 114.5}
+        - {x: 108.399826, y: 115.5}
+        - {x: 108.399826, y: 118.5}
+        - {x: 105.399826, y: 119.5}
+        - {x: 103.399826, y: 117.5}
+      - - {x: -8.600174, y: 143.5}
+        - {x: -31.600174, y: 129.5}
+        - {x: -31.600174, y: 121.5}
+        - {x: 32.399826, y: 119.5}
+        - {x: 100.399826, y: 119.5}
+        - {x: 100.399826, y: 125.5}
+        - {x: 67.399826, y: 143.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

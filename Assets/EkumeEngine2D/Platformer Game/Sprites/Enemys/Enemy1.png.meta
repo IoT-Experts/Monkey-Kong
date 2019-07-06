@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: ecc144d3b25c6c448b9b7e029e62c45c
+timeCreated: 1473887727
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy1_0
+    21300002: Enemy1_1
+    21300004: Enemy1_2
+    21300006: Enemy1_3
+    21300008: Enemy1_4
+    21300010: Enemy1_5
+    21300012: Enemy1_6
+    21300014: Enemy1_7
+    21300016: Enemy1_8
+    21300018: Enemy1_9
+    21300020: Enemy1_10
+    21300022: Enemy1_11
+    21300024: Enemy1_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: -1
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemy1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 344
+        height: 439
+      alignment: 9
+      pivot: {x: 0.28989878, y: 0.26088712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143.72557, y: 84.86127}
+        - {x: 137.72557, y: 118.86127}
+        - {x: 55.72557, y: 205.86127}
+        - {x: 50.72557, y: 207.86127}
+        - {x: -18.27443, y: 207.86127}
+        - {x: -44.27443, y: 176.86127}
+        - {x: -43.27443, y: 117.86127}
+        - {x: -64.27443, y: 98.86127}
+        - {x: -64.27443, y: 51.861267}
+        - {x: -27.27443, y: -4.138733}
+        - {x: 38.72557, y: -27.138733}
+        - {x: 61.72557, y: -66.13873}
+        - {x: 73.72557, y: -73.13873}
+        - {x: 138.72557, y: -73.13873}
+        - {x: 156.72557, y: -53.138733}
+        - {x: 156.72557, y: -12.138733}
+        - {x: 144.72557, y: 55.861267}
+    - name: Enemy1_1
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 611
+        width: 123
+        height: 151
+      alignment: 9
+      pivot: {x: 0.6930924, y: 0.79781115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.495636, y: 21.022125}
+        - {x: -54.495636, y: -11.977875}
+        - {x: -54.495636, y: -68.977875}
+        - {x: -45.495636, y: -76.977875}
+        - {x: -6.495636, y: -76.977875}
+        - {x: 25.504364, y: -25.977875}
+        - {x: 25.504364, y: 21.022125}
+    - name: Enemy1_2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 595
+        width: 133
+        height: 144
+      alignment: 9
+      pivot: {x: 0.7201625, y: 0.7569572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.405731, y: 23.384827}
+        - {x: -17.594269, y: 23.384827}
+        - {x: -36.59427, y: 16.384827}
+        - {x: -61.59427, y: -25.615173}
+        - {x: -61.59427, y: -62.615173}
+        - {x: -59.59427, y: -69.61517}
+        - {x: -25.594269, y: -69.61517}
+        - {x: 24.405731, y: -17.615173}
+        - {x: 24.405731, y: 16.384827}
+    - name: Enemy1_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 406
+        width: 92
+        height: 167
+      alignment: 9
+      pivot: {x: 0.64978296, y: 0.87956995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.956299, y: 14.127869}
+        - {x: -37.9563, y: -6.8721313}
+        - {x: -37.9563, y: -93.87213}
+        - {x: 21.043701, y: -93.87213}
+        - {x: 22.043701, y: -90.87213}
+        - {x: 22.043701, y: 5.1278687}
+        - {x: 15.043701, y: 14.127869}
+    - name: Enemy1_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 423
+        width: 155
+        height: 150
+      alignment: 9
+      pivot: {x: 0.15772153, y: 0.8490942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.96991, y: 15.551514}
+        - {x: -15.96991, y: 9.551514}
+        - {x: -15.96991, y: -28.448486}
+        - {x: 36.03009, y: -81.44849}
+        - {x: 68.03009, y: -81.44849}
+        - {x: 84.03009, y: -56.448486}
+        - {x: 84.03009, y: -28.448486}
+        - {x: 20.03009, y: 15.551514}
+    - name: Enemy1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 237
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 70.51442}
+        - {x: -76, y: 68.51442}
+        - {x: -76, y: -20.48558}
+        - {x: -52, y: -70.48558}
+        - {x: 51, y: -70.48558}
+        - {x: 76, y: -49.48558}
+        - {x: 76, y: 41.51442}
+        - {x: 59, y: 70.51442}
+    - name: Enemy1_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 235
+        width: 145
+        height: 137
+      alignment: 9
+      pivot: {x: 0.6046254, y: 0.7906788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.17273, y: 18.831406}
+        - {x: -24.17273, y: 17.831406}
+        - {x: -56.17273, y: -16.168594}
+        - {x: -56.17273, y: -56.168594}
+        - {x: -47.17273, y: -69.168594}
+        - {x: 29.82727, y: -69.168594}
+        - {x: 36.82727, y: -59.168594}
+        - {x: 36.82727, y: 0.83140564}
+        - {x: 26.82727, y: 18.831406}
+    - name: Enemy1_7
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 265
+        width: 143
+        height: 124
+      alignment: 9
+      pivot: {x: 0.19057481, y: 0.6478326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.74826, y: 28.764557}
+        - {x: -13.2517395, y: 28.764557}
+        - {x: -17.25174, y: 15.764557}
+        - {x: -17.25174, y: -23.235443}
+        - {x: -13.2517395, y: -42.235443}
+        - {x: 15.7482605, y: -51.235443}
+        - {x: 51.74826, y: -51.235443}
+        - {x: 68.74826, y: -36.235443}
+        - {x: 74.74826, y: -18.235443}
+        - {x: 74.74826, y: 26.764557}
+    - name: Enemy1_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 60
+        width: 166
+        height: 141
+      alignment: 9
+      pivot: {x: 0.48055148, y: 0.8663464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.317184, y: 12.837402}
+        - {x: -51.317184, y: 4.8374023}
+        - {x: -51.317184, y: -63.162598}
+        - {x: -41.317184, y: -78.1626}
+        - {x: 30.682816, y: -78.1626}
+        - {x: 37.682816, y: -75.1626}
+        - {x: 55.682816, y: -35.162598}
+        - {x: 55.682816, y: -2.1625977}
+        - {x: 37.682816, y: 12.837402}
+    - name: Enemy1_9
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 77
+        width: 84
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5669708, y: 0.86889684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.447266, y: 11.547485}
+        - {x: -30.447266, y: -41.452515}
+        - {x: -30.447266, y: -71.452515}
+        - {x: 23.552734, y: -71.452515}
+        - {x: 23.552734, y: 8.547485}
+        - {x: 19.552734, y: 11.547485}
+    - name: Enemy1_10
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 77
+        width: 85
+        height: 130
+      alignment: 9
+      pivot: {x: 0.26946518, y: 0.8452302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.366455, y: 4.5433807}
+        - {x: 17.366455, y: 13.543381}
+        - {x: -12.633545, y: 13.543381}
+        - {x: -14.633545, y: 11.543381}
+        - {x: -14.633545, y: -28.45662}
+        - {x: -9.633545, y: -67.45662}
+        - {x: -8.633545, y: -70.45662}
+        - {x: 23.366455, y: -70.45662}
+        - {x: 41.366455, y: -65.45662}
+        - {x: 41.366455, y: -22.45662}
+    - name: Enemy1_11
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 3
+        width: 118
+        height: 58
+      alignment: 9
+      pivot: {x: 0.3224384, y: 0.8399963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.146515, y: 7.806349}
+        - {x: -24.146515, y: -24.193651}
+        - {x: -21.146515, y: -31.193651}
+        - {x: 38.853485, y: -31.193651}
+        - {x: 52.853485, y: -27.193651}
+        - {x: 52.853485, y: 1.8063488}
+        - {x: 50.853485, y: 7.806349}
+    - name: Enemy1_12
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 0
+        width: 119
+        height: 59
+      alignment: 9
+      pivot: {x: 0.31702584, y: 0.8411972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.01944, y: 6.124836}
+        - {x: -24.01944, y: 4.124836}
+        - {x: -24.01944, y: -27.875164}
+        - {x: -18.01944, y: -31.875164}
+        - {x: 48.98056, y: -31.875164}
+        - {x: 52.98056, y: -25.875164}
+        - {x: 52.98056, y: -0.87516403}
+        - {x: 34.98056, y: 6.124836}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

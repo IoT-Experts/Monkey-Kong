@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: eb50d69ecf0d0c048bc08f0257cb4d5f
+timeCreated: 1472709105
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SetKarate_0
+    21300002: SetKarate_1
+    21300004: SetKarate_2
+    21300006: SetKarate_3
+    21300008: SetKarate_4
+    21300010: SetKarate_5
+    21300012: SetKarate_6
+    21300014: SetKarate_7
+    21300016: SetKarate_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SetKarate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 296
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 81.514465}
+        - {x: 50, y: 86.514465}
+        - {x: -72, y: 86.514465}
+        - {x: -90, y: 64.514465}
+        - {x: -90, y: -85.485535}
+        - {x: 95, y: -85.485535}
+        - {x: 95, y: -43.485535}
+        - {x: 62, y: 60.514465}
+    - name: SetKarate_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 496
+        width: 164
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5764071, y: 0.9662301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.670807, y: 3.2869263}
+        - {x: -60.670807, y: -2.7130737}
+        - {x: -60.670807, y: -77.71307}
+        - {x: 45.329193, y: -77.71307}
+        - {x: 45.329193, y: -19.713074}
+        - {x: 41.329193, y: 3.2869263}
+    - name: SetKarate_2
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 484
+        width: 130
+        height: 138
+      alignment: 9
+      pivot: {x: 0.15238789, y: 0.78186214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.709717, y: 20.308655}
+        - {x: -12.290283, y: 9.308655}
+        - {x: -12.290283, y: -68.691345}
+        - {x: 30.709717, y: -68.691345}
+        - {x: 71.70972, y: -9.691345}
+        - {x: 71.70972, y: 15.308655}
+        - {x: 57.709717, y: 20.308655}
+    - name: SetKarate_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 273
+        height: 124
+      alignment: 9
+      pivot: {x: 0.49038127, y: 0.8777126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.29922, y: -21.613953}
+        - {x: 89.29922, y: -5.6139526}
+        - {x: 89.29922, y: 11.386047}
+        - {x: -85.70078, y: 11.386047}
+        - {x: -85.70078, y: -11.613953}
+        - {x: -26.700783, y: -21.613953}
+        - {x: 2.2992172, y: -56.613953}
+        - {x: 24.299217, y: -69.61395}
+        - {x: 45.299217, y: -69.61395}
+        - {x: 76.29922, y: -66.61395}
+        - {x: 81.29922, y: -34.613953}
+        - {x: 80.29922, y: -28.613953}
+    - name: SetKarate_4
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 223
+        width: 159
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.80867, y: 60.191315}
+        - {x: -38.19133, y: 60.191315}
+        - {x: -51.19133, y: 19.191315}
+        - {x: -51.19133, y: -58.808685}
+        - {x: 42.80867, y: -58.808685}
+        - {x: 51.80867, y: -41.808685}
+        - {x: 51.80867, y: 46.191315}
+    - name: SetKarate_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 237
+        width: 132
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.065918, y: 55.649506}
+        - {x: -42.065918, y: 54.649506}
+        - {x: -42.065918, y: -54.350494}
+        - {x: 28.934082, y: -54.350494}
+        - {x: 42.934082, y: -45.350494}
+        - {x: 42.934082, y: -0.35049438}
+        - {x: 19.934082, y: 55.649506}
+    - name: SetKarate_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1
+        width: 282
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5268818, y: 0.40448812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.032326, y: 66.02947}
+        - {x: -95.032326, y: -23.970528}
+        - {x: -84.032326, y: -43.970528}
+        - {x: 44.967674, y: -43.970528}
+        - {x: 85.967674, y: -11.970528}
+        - {x: 85.967674, y: 66.02947}
+    - name: SetKarate_7
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 35
+        width: 184
+        height: 93
+      alignment: 9
+      pivot: {x: 0.50772876, y: 0.5650234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.26204, y: 26.526077}
+        - {x: -49.73796, y: 26.526077}
+        - {x: -59.73796, y: 24.526077}
+        - {x: -59.73796, y: -33.473923}
+        - {x: 57.26204, y: -33.473923}
+        - {x: 59.26204, y: -32.473923}
+        - {x: 59.26204, y: 9.526077}
+        - {x: 56.26204, y: 18.526077}
+    - name: SetKarate_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 45
+        width: 181
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4951708, y: 0.56364137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.500214, y: 24.414259}
+        - {x: -57.500214, y: 14.414259}
+        - {x: -57.500214, y: -29.585741}
+        - {x: 36.499786, y: -29.585741}
+        - {x: 59.499786, y: -20.585741}
+        - {x: 59.499786, y: 24.414259}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

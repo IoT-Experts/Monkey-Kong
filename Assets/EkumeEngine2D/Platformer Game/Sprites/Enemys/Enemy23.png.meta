@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: a1a9e74bf39e9884397376de92fee048
+timeCreated: 1473910453
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy23_0
+    21300002: Enemy23_1
+    21300004: Enemy23_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: -1
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemy23_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 442
+        width: 218
+        height: 249
+      alignment: 9
+      pivot: {x: 0.8463109, y: 0.20824534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.38959, y: 73.971664}
+        - {x: -68.38959, y: 19.971664}
+        - {x: -64.38959, y: -7.0283356}
+        - {x: -55.389587, y: -19.028336}
+        - {x: 13.610413, y: -19.028336}
+        - {x: 13.610413, y: 38.971664}
+        - {x: -50.389587, y: 73.971664}
+    - name: Enemy23_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 436
+        width: 147
+        height: 249
+      alignment: 9
+      pivot: {x: 0.17053555, y: 0.16820064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.304832, y: 39.441376}
+        - {x: -9.304832, y: -8.558624}
+        - {x: -6.3048325, y: -15.558624}
+        - {x: 36.695168, y: -15.558624}
+        - {x: 46.695168, y: 16.441376}
+        - {x: 46.695168, y: 77.441376}
+        - {x: 35.695168, y: 77.441376}
+        - {x: 3.6951675, y: 57.441376}
+    - name: Enemy23_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 689
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123.5, y: 34.5}
+        - {x: 64.5, y: 76.5}
+        - {x: -36.5, y: 76.5}
+        - {x: -89.5, y: 51.5}
+        - {x: -127.5, y: -3.5}
+        - {x: -127.5, y: -46.5}
+        - {x: -122.5, y: -56.5}
+        - {x: -51.5, y: -76.5}
+        - {x: 73.5, y: -76.5}
+        - {x: 127.5, y: -43.5}
+        - {x: 127.5, y: 18.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

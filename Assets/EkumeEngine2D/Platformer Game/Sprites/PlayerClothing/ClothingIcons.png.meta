@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 7b6e96ae70b30fd48a98dd4437684db5
+timeCreated: 1471562904
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ClothingIcons_0
+    21300002: ClothingIcons_1
+    21300004: ClothingIcons_3
+    21300006: ClothingIcons_9
+    21300008: ClothingIcons_10
+    21300010: ClothingIcons_12
+    21300012: ClothingIcons_14
+    21300014: ClothingIcons_15
+    21300016: ClothingIcons_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: -1
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ClothingIcons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 146
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 20.966667}
+        - {x: -17.5, y: 20.966667}
+        - {x: -31.5, y: 7.966667}
+        - {x: -31.5, y: -18.033333}
+        - {x: -27.5, y: -20.033333}
+        - {x: -13.5, y: -20.033333}
+        - {x: 30.5, y: -8.033333}
+        - {x: 31.5, y: -5.033333}
+        - {x: 31.5, y: 5.966667}
+    - name: ClothingIcons_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 159
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.246674, y: 18.180008}
+        - {x: 10.246674, y: 16.180008}
+        - {x: 13.246674, y: 8.180008}
+        - {x: 16.246674, y: 3.180008}
+        - {x: 12.246674, y: 6.180008}
+        - {x: 12.246674, y: 9.180008}
+        - {x: 10.246674, y: 11.180008}
+        - {x: 7.2466736, y: 11.180008}
+        - {x: 1.2466736, y: 6.180008}
+        - {x: 1.2466736, y: -10.819992}
+        - {x: 10.246674, y: -25.819992}
+        - {x: 44.246674, y: -25.819992}
+        - {x: 44.246674, y: 7.180008}
+        - {x: 33.246674, y: 18.180008}
+      - - {x: -9.753326, y: 25.180008}
+        - {x: -11.753326, y: 23.180008}
+        - {x: -11.753326, y: 28.180008}
+        - {x: -12.753326, y: 29.180008}
+        - {x: -35.753326, y: 29.180008}
+        - {x: -42.753326, y: 20.180008}
+        - {x: -42.753326, y: -11.819992}
+        - {x: -41.753326, y: -12.819992}
+        - {x: -6.7533264, y: -12.819992}
+        - {x: -1.7533264, y: 2.180008}
+        - {x: -1.7533264, y: 21.180008}
+        - {x: -6.7533264, y: 25.180008}
+    - name: ClothingIcons_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 128
+        width: 163
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.899994, y: 21.613335}
+        - {x: -34.899994, y: 16.613335}
+        - {x: -34.899994, y: -11.386665}
+        - {x: -30.899994, y: -20.386665}
+        - {x: 33.100006, y: -20.386665}
+        - {x: 36.100006, y: -17.386665}
+        - {x: 36.100006, y: 14.613335}
+        - {x: 34.100006, y: 21.613335}
+    - name: ClothingIcons_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 116
+        width: 114
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.440002, y: 23.993336}
+        - {x: -19.559998, y: 23.993336}
+        - {x: -24.559998, y: 13.993336}
+        - {x: -24.559998, y: -6.0066643}
+        - {x: -19.559998, y: -15.006664}
+        - {x: -2.5599976, y: -23.006664}
+        - {x: 15.440002, y: -23.006664}
+        - {x: 25.440002, y: -9.006664}
+        - {x: 25.440002, y: 4.9933357}
+        - {x: 21.440002, y: 19.993336}
+    - name: ClothingIcons_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 5
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.42, y: 20.633333}
+        - {x: -17.42, y: 19.633333}
+        - {x: -17.42, y: -20.366667}
+        - {x: 16.58, y: -20.366667}
+        - {x: 17.58, y: -19.366667}
+        - {x: 17.58, y: 4.633333}
+        - {x: 10.58, y: 20.633333}
+    - name: ClothingIcons_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 4
+        width: 94
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.793335, y: 19.206667}
+        - {x: -19.793335, y: 14.206667}
+        - {x: -19.793335, y: 0.20666695}
+        - {x: -12.793335, y: -17.793333}
+        - {x: 15.206665, y: -17.793333}
+        - {x: 21.206665, y: -4.793333}
+        - {x: 21.206665, y: 13.206667}
+        - {x: 14.206665, y: 19.206667}
+    - name: ClothingIcons_14
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.8399963, y: 20.5}
+        - {x: -14.839996, y: 15.5}
+        - {x: -17.839996, y: 0.5}
+        - {x: -17.839996, y: -19.5}
+        - {x: -14.839996, y: -20.5}
+        - {x: 18.160004, y: -20.5}
+        - {x: 18.160004, y: -6.5}
+        - {x: 14.160004, y: 20.5}
+    - name: ClothingIcons_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 17
+        width: 129
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.206665, y: 21.506668}
+        - {x: -55.206665, y: -20.493332}
+        - {x: 49.793335, y: -20.493332}
+        - {x: 55.793335, y: -9.493332}
+        - {x: 55.793335, y: 13.506668}
+        - {x: 53.793335, y: 21.506668}
+    - name: ClothingIcons_16
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.200012, y: -25}
+        - {x: 25.200012, y: 39}
+        - {x: -24.799988, y: 39}
+        - {x: -24.799988, y: -23}
+        - {x: -22.799988, y: -39}
+        - {x: -1.7999878, y: -39}
+        - {x: -0.7999878, y: -33}
+        - {x: 2.2000122, y: -39}
+        - {x: 23.200012, y: -39}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

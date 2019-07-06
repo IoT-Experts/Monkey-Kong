@@ -1,0 +1,109 @@
+fileFormatVersion: 2
+guid: 96e9cb210caa0df49949489934524951
+timeCreated: 1473881048
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy15_0
+    21300002: Enemy15_1
+    21300004: Enemy15_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: -1
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemy15_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 304
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: -91}
+        - {x: 55.5, y: -91}
+        - {x: 55.5, y: 26}
+        - {x: 42.5, y: 91}
+        - {x: -18.5, y: 91}
+        - {x: -56.5, y: -1}
+    - name: Enemy15_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 298
+        width: 380
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.35715, y: 39.47619}
+        - {x: -70.35715, y: -37.52381}
+        - {x: 62.642853, y: -37.52381}
+        - {x: 70.64285, y: -18.523811}
+        - {x: 70.64285, y: 27.476189}
+        - {x: 58.642853, y: 39.47619}
+    - name: Enemy15_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 6
+        width: 315
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.9881, y: 51.714287}
+        - {x: -57.9881, y: -51.285713}
+        - {x: 59.0119, y: -51.285713}
+        - {x: 59.0119, y: 51.714287}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

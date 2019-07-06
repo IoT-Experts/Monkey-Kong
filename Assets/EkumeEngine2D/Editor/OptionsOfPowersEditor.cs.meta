@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea9960e922e37ba4d938f8528f9832dc
+timeCreated: 1461631287
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - punctuationTypesManager: {fileID: 11400000, guid: 9fa6d85df19c8754db5d56a7bdce9f8d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

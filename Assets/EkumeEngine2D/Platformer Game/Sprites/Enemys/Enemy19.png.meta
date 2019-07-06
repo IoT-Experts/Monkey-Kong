@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 6d1ed3d33be3f974e9369518e81f3b2c
+timeCreated: 1473881192
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy19_0
+    21300002: Enemy19_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: -1
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemy19_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 391
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -148}
+        - {x: 27.5, y: -99}
+        - {x: 67.5, y: -148}
+        - {x: 76.5, y: -148}
+        - {x: 99.5, y: -99}
+        - {x: 123.5, y: -98}
+        - {x: 123.5, y: 98}
+        - {x: 90.5, y: 134}
+        - {x: 75.5, y: 148}
+        - {x: 62.5, y: 148}
+        - {x: 45.5, y: 101}
+        - {x: 5.5, y: 148}
+        - {x: -3.5, y: 148}
+        - {x: -18.5, y: 122}
+        - {x: -67.5, y: 148}
+        - {x: -75.5, y: 148}
+        - {x: -123.5, y: 99}
+        - {x: -123.5, y: -98}
+        - {x: -100.5, y: -100}
+        - {x: -76.5, y: -148}
+        - {x: -67.5, y: -148}
+        - {x: -43.5, y: -99}
+        - {x: -20.5, y: -131}
+        - {x: -3.5, y: -148}
+    - name: Enemy19_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 352
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111.049255, y: -6}
+        - {x: 111.049255, y: 8}
+        - {x: 6.0492554, y: 148}
+        - {x: -1.9507446, y: 148}
+        - {x: -3.9507446, y: 146}
+        - {x: -43.950745, y: 101}
+        - {x: -65.950745, y: 147}
+        - {x: -66.950745, y: 148}
+        - {x: -73.950745, y: 148}
+        - {x: -110.950745, y: 101}
+        - {x: -110.950745, y: -99}
+        - {x: -75.950745, y: -148}
+        - {x: -66.950745, y: -148}
+        - {x: -61.950745, y: -139}
+        - {x: -19.950745, y: -148}
+        - {x: 5.0492554, y: -148}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

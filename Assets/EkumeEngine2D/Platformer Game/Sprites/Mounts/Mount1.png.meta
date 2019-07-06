@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: b9878c3454681f046a267f58ce9ba584
+timeCreated: 1475717783
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mount1_0
+    21300002: Mount1_1
+    21300004: Mount1_2
+    21300006: Mount1_3
+    21300008: Mount1_4
+    21300010: Mount1_5
+    21300012: Mount1_6
+    21300014: Mount1_7
+    21300016: Mount1_8
+    21300018: Mount1_9
+    21300020: Mount1_10
+    21300022: Mount1_11
+    21300024: Mount1_12
+    21300026: Mount1_13
+    21300028: Mount1_14
+    21300030: Mount1_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mount1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 526
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount1_1
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 378
+        width: 324
+        height: 360
+      alignment: 9
+      pivot: {x: 0.20727652, y: 0.3504737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 188
+        height: 109
+      alignment: 9
+      pivot: {x: 0.9687285, y: 0.14003369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount1_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 133
+        height: 195
+      alignment: 9
+      pivot: {x: 0.50967246, y: 0.67152506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount1_4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 159
+        width: 133
+        height: 195
+      alignment: 9
+      pivot: {x: 0.49008682, y: 0.68255424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount1_5
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 192
+        width: 123
+        height: 156
+      alignment: 9
+      pivot: {x: 0.61790997, y: 0.73664445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount1_6
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 187
+        width: 123
+        height: 156
+      alignment: 9
+      pivot: {x: 0.57503355, y: 0.73664427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount1_7
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 69
+        width: 189
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5348795, y: 0.6648059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount1_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 48
+        width: 74
+        height: 99
+      alignment: 9
+      pivot: {x: 0.19711345, y: 0.84625906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount1_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 53
+        width: 74
+        height: 100
+      alignment: 9
+      pivot: {x: 0.19711262, y: 0.8691655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount1_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 40
+        width: 77
+        height: 143
+      alignment: 9
+      pivot: {x: 0.32877222, y: 0.83191687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount1_11
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 36
+        width: 77
+        height: 143
+      alignment: 9
+      pivot: {x: 0.3630181, y: 0.8411367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount1_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 8
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.2104292, y: 0.7496307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mount1_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 45
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2023858, y: 0.8748913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
